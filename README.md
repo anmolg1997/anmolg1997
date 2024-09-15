@@ -71,7 +71,8 @@ I’m always open to discussing new projects, innovative ideas, or opportunities
 ### 📜 Disclaimer
 
 The projects and code hosted in my repositories serve as a showcase of my skills and are primarily intended for educational and demonstrative purposes. They do not carry any license from formal institutions unless explicitly stated.
-For further information or inquiries, feel free to contact **Anmol Jaiswal** at the.anmol.jaiswal@gmail.com
+
+For further information or inquiries, feel free to contact at the.anmol.jaiswal@gmail.com
 
 <h3 align="center">💼 Crafting Data Stories | 🚀 Fueling Insights | 🌟 Shaping the Future</h3>
 
