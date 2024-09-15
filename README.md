@@ -78,3 +78,6 @@ The projects and code hosted in my repositories serve as a showcase of my skills
     <b>Anmol Jaiswal</b><br>
     Senior Data Scientist | GenAI Developer | Machine Learning Engineer | Data Strategist
 </p>
+
+For further information or inquiries, feel free to contact **Anmol Jaiswal** at the.anmol.jaiswal@gmail.com
+
