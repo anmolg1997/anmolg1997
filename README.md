@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Who is Anmol Jaiswal?
 
-Hello there! I'm **Anmol Jaiswal**, a **Senior AI/ML Engineer** with a passion for transforming raw data into impactful, data-driven solutions. With extensive experience in **machine learning**, **NLP**, and **distributed computing**, I've built scalable pipelines and deployed advanced AI systems across various domains. My goal is to not only harness the power of data but also to make it actionable, ensuring businesses thrive with smart, automated solutions.
+Hello there! I'm **Anmol Jaiswal**, a **Senior AI/ML Engineer** with a passion for transforming raw data into impactful, data-driven solutions. With extensive experience in **machine learning**, **NLP**, **LLMs (Large Language Models)**, **Generative AI (GenAI)**, and **MLOps**, I've built scalable pipelines and deployed advanced AI systems across various domains. My goal is to not only harness the power of data but also to make it actionable, ensuring businesses thrive with smart, automated solutions.
 
 ### 🔧 My Tech Toolkit
 
@@ -28,6 +28,12 @@ Hello there! I'm **Anmol Jaiswal**, a **Senior AI/ML Engineer** with a passion f
 - **AI & Data Science Frameworks**:
   - **Transformers**, **Scikit-Learn**, **TensorFlow**, **PyTorch**, **Hugging Face**, **Spark NLP**
   
+- **Large Language Models (LLMs) & Generative AI**:
+  - **GPT-4**, **RAG (Retrieval-Augmented Generation)**, **BERT**, **RoBERTa**, **T5**, **Stable Diffusion**
+
+- **MLOps**:
+  - **Model Deployment**, **CI/CD Pipelines**, **Monitoring & Retraining**, **Docker**, **Kubernetes**, **MLflow**, **Airflow**
+
 - **Big Data & Distributed Computing**:
   - **PySpark**, **Spark**, **Databricks**, **MLflow** 📊
 
@@ -40,7 +46,7 @@ Hello there! I'm **Anmol Jaiswal**, a **Senior AI/ML Engineer** with a passion f
 - **Version Control & Collaboration**:
   - **Git**, **Jupyter Notebooks**, **Streamlit**
 
-With a solid foundation in deploying **scalable AI/ML solutions** and optimizing workflows for **real-time data processing**, I focus on leveraging advanced technologies like **GPU acceleration** and **quantized models** to create robust, efficient, and insightful models that drive real business value.
+With expertise in **LLMs**, **GenAI**, and **MLOps**, I specialize in creating end-to-end **scalable AI/ML solutions** that encompass model development, deployment, monitoring, and retraining. By leveraging **GPU acceleration** and **quantized models**, I ensure robust, scalable, and efficient real-time data processing and insights that drive real business value.
 
 ### 💡 Featured Projects
 
