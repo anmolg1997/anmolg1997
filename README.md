@@ -16,16 +16,31 @@
 
 ---
 
-## 👨‍🔬 Who is Anmol Jaiswal?
+## 👨‍💻 Who is Anmol Jaiswal?
 
-Greetings, fellow data aficionado! I'm a Senior Data Scientist who thrives on unearthing insights from data and molding them into actionable strategies. With a toolbox full of statistical techniques, machine learning models, and data visualization tools, I've journeyed through data mazes in various industries, leaving a trail of enlightened decisions and predictive insights.
+Hello there! I'm **Anmol Jaiswal**, a **Senior AI/ML Engineer** with a passion for transforming raw data into impactful, data-driven solutions. With extensive experience in **machine learning**, **NLP**, and **distributed computing**, I've built scalable pipelines and deployed advanced AI systems across various domains. My goal is to not only harness the power of data but also to make it actionable, ensuring businesses thrive with smart, automated solutions.
 
-### 🛠 Tech Toolkit
+### 🔧 My Tech Toolkit
 
-- **Languages**: Python 🐍, R 📊, SQL 🗃️
-- **Libraries & Frameworks**: Pandas, PySpark, Scikit-Learn, TensorFlow, PyTorch, Plotly, Seaborn
-- **Tools**: Jupyter Notebook, Tableau, Power BI, Git, Docker 🐳, Kubernetes ☸️
-- **Platforms**: AWS, Google Cloud, Azure
+- **Programming Languages**: 
+  - **Python** 🐍 (primary), **R** 📈, **SQL** 💾
+  
+- **AI & Data Science Frameworks**:
+  - **Transformers**, **Scikit-Learn**, **TensorFlow**, **PyTorch**, **Hugging Face**, **Spark NLP**
+  
+- **Big Data & Distributed Computing**:
+  - **PySpark**, **Spark**, **Databricks**, **MLflow** 📊
+
+- **Data Visualization**:
+  - **Plotly**, **Seaborn**, **Matplotlib**, **Tableau**, **Power BI**
+  
+- **Cloud & DevOps**:
+  - **AWS**, **Google Cloud**, **Azure**, **Docker** 🐳, **Kubernetes** ☸️
+
+- **Version Control & Collaboration**:
+  - **Git**, **Jupyter Notebooks**, **Streamlit**
+
+With a solid foundation in deploying **scalable AI/ML solutions** and optimizing workflows for **real-time data processing**, I focus on leveraging advanced technologies like **GPU acceleration** and **quantized models** to create robust, efficient, and insightful models that drive real business value.
 
 ### 💡 Featured Projects
 
