@@ -29,13 +29,15 @@ Greetings, fellow data aficionado! I'm a Senior Data Scientist who thrives on un
 
 ### 💡 Featured Projects
 
-- **Predictive Modeling for Retail Sales**: Utilized XGBoost to forecast sales, achieving a 95% accuracy rate. 
+- **Spark-cum-Multi-node-GPU SentimentAnalyzer**: This project implements a scalable and efficient sentiment analysis framework using **PySpark**, **Spark NLP**, and **Hugging Face Transformers**. It is designed to process large-scale textual data in a distributed environment, leveraging **GPU acceleration**, **quantized models**, and **mixed precision** techniques for faster and more accurate sentiment analysis. This framework is ideal for handling extensive datasets in real-time and producing detailed sentiment scores at both the sentence and document levels.
   ```python
-  # Sample code snippet
-  import xgboost as xgb
-  model = xgb.XGBRegressor(objective ='reg:squarederror', colsample_bytree = 0.3, learning_rate = 0.1,
-                max_depth = 5, alpha = 10, n_estimators = 10)
-  model.fit(X_train, y_train)
+   from sentiment_analyzer import SentimentAnalyzer
+   
+   sentiment_analyzer = SentimentAnalyzer(spark)
+   result_df = sentiment_analyzer.trigger_SentimentInference(df, text_column="text", sentParse=True)
+   
+   # Show results
+   result_df.show(truncate=False)
   ```
 - **NLP Sentiment Analysis on Twitter Data**: Implemented LSTM networks with TensorFlow to analyze sentiments, with an 88% sentiment classification accuracy.
 - **Dynamic Dashboard for COVID-19 Data Visualization**: Created an interactive dashboard using Power BI to track and visualize the pandemic's impact globally.
@@ -59,5 +61,5 @@ The projects and code hosted in my repositories serve as a showcase of my skills
 
 <p align="center">
     <b>Anmol Jaiswal</b><br>
-    Senior Data Scientist | Machine Learning Engineer | Data Strategist
+    Senior Data Scientist | GenAI Developer | Machine Learning Engineer | Data Strategist
 </p>
