@@ -41,17 +41,18 @@
 <br/>
 
 ### 🔭 Currently Building
-- 🤖 Multi-Agent AI orchestration platforms
-- 🔗 Knowledge Graph-powered RAG systems
-- 🧠 Enterprise-scale LLM applications
+- 🤖 Multi-Agent systems with **MCP Tools** & **A2A Protocol**
+- 🔗 Knowledge Graph-powered RAG with **Neo4j**
+- 📊 LLM Observability with **Langfuse** & **MLflow**
+- 🧠 Agent orchestration with **LangGraph** & **Google ADK**
 
 <br/>
 
 ### 🎯 2025-26 Focus
-- **Agentic AI** — Autonomous planning & self-correction
+- **Agentic AI** — Multi-Agent with A2A Protocol & MCP Tools
 - **GraphRAG** — Neo4j + RAG for reasoning
-- **SLMs** — Efficient models for edge deployment
-- **Real-time AI** — Streaming decision pipelines
+- **Agent Frameworks** — Google ADK, LangGraph, CrewAI
+- **Observability** — Langfuse, MLflow, OpenSearch
 
 <br/>
 
@@ -139,12 +140,25 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-### 🤖 Agent Frameworks
+### 🤖 Agent Frameworks & Protocols
 <p>
   <img src="https://img.shields.io/badge/🔄_LangGraph-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/👥_CrewAI-00C7B7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🤖_AutoGen-0078D4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🦙_LlamaIndex-5A29E4?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/🔌_MCP_Tools-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔗_A2A_Protocol-F72585?style=for-the-badge"/>
+</p>
+
+### 📊 Observability & Search
+<p>
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjRkY2QjZCIi8+PC9zdmc+&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
 </p>
 
 </div>
@@ -157,12 +171,15 @@
 
 ```
 🧠 LLM Providers     → OpenAI (GPT-4o) | Anthropic (Claude 3.5) | Google (Gemini) | Mistral | Llama 3.2
-🤖 Agent Frameworks  → LangGraph | CrewAI | AutoGen | Agency Swarm | Semantic Kernel
+🤖 Agent Frameworks  → LangGraph | Google ADK | CrewAI | AutoGen | Agency Swarm | Semantic Kernel
+🔌 Agent Protocols   → MCP Tools (Model Context Protocol) | A2A Protocol (Agent-to-Agent)
 📚 RAG Stack         → LangChain | LlamaIndex | Haystack | Cohere Rerank
 🔗 Knowledge Graphs  → Neo4j | Amazon Neptune | GraphDB | RDF/SPARQL
 📊 Vector DBs        → Pinecone | Weaviate | Milvus | Qdrant | ChromaDB | pgvector
+🔎 Search            → OpenSearch | Elasticsearch | Hybrid Search
 🔧 Fine-tuning       → PEFT | LoRA | QLoRA | Unsloth | Axolotl | DeepSpeed
 ⚡ Inference         → vLLM | TensorRT-LLM | Triton | ONNX Runtime
+👁️ Observability    → Langfuse | MLflow | Weights & Biases | OpenTelemetry
 🎨 Frontend          → React | Vite | Next.js | TypeScript | TailwindCSS | Shadcn/ui
 🔙 Backend           → FastAPI | Python | Node.js | GraphQL
 📈 MLOps             → MLflow | W&B | Kubeflow | Airflow | DVC | BentoML
