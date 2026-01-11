@@ -24,6 +24,8 @@
 
 > **Principal AI Engineer** specializing in building production-grade AI systems that reason, plan, and execute autonomously.
 
+<img src="https://img.shields.io/badge/AI%2FML%20Journey-Since%20July%202019-A855F7?style=for-the-badge&labelColor=0d1117"/> <img src="https://img.shields.io/badge/Experience-6%2B%20Years-00D4AA?style=for-the-badge&labelColor=0d1117"/>
+
 🔭 **Currently Building:** Multi-Agent AI platforms & Knowledge Graph-powered RAG systems
 
 🎯 **2025-26 Focus Areas:**
@@ -242,7 +244,7 @@ Production fine-tuning with **LoRA**, **QLoRA**, **PEFT** — from base model to
 |:--------:|:--------------|
 | **42+** | Public Repositories |
 | **6** | Active AI/ML Projects |
-| **4+** | Years in AI/ML |
+| **🗓️ Since July 2019** | Data Science • AI/ML • GenAI |
 | **🎯** | Multi-Agent, RAG, Knowledge Graphs |
 
 </div>
