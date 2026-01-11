@@ -212,22 +212,39 @@ Production fine-tuning with **LoRA**, **QLoRA**, **PEFT** — from base model to
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Metrics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=anmolg1997&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+<!-- Reliable GitHub Badges -->
+![GitHub followers](https://img.shields.io/github/followers/anmolg1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=A855F7)
+![GitHub User's stars](https://img.shields.io/github/stars/anmolg1997?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=A855F7)
+![GitHub repos](https://img.shields.io/badge/Repos-42+-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolg1997&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+
+<!-- Snake Animation - Always Works -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
-<!-- Activity Graph -->
+<br>
+
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" alt="Activity Graph"/>
+
+| 📊 Stats | 🔥 Highlights |
+|:--------:|:--------------|
+| **42+** | Public Repositories |
+| **6** | Active AI/ML Projects |
+| **4+** | Years in AI/ML |
+| **🎯** | Multi-Agent, RAG, Knowledge Graphs |
+
 </div>
 
 ---
