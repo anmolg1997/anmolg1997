@@ -1,260 +1,252 @@
 <!-- Header with Bubble Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,3,5,9,12&text=Anmol%20Jaiswal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Principal%20AI%20Engineer%20%7C%20Architecting%20Intelligent%20Systems&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Principal%20AI%20Engineer&descSize=20&descAlignY=55"/>
 
 <div align="center">
 
 <!-- Animated Role Text -->
 <a href="https://github.com/anmolg1997">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=435&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;Knowledge+Graph+Engineer;6%2B+Years+in+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&lines=Architecting+Intelligent+Systems+at+Scale;Multi-Agent+AI+%E2%80%A2+Enterprise+RAG+%E2%80%A2+GraphRAG;6%2B+Years+Building+Production+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social & Stats Badges -->
+<!-- Social Badges - Consistent Purple Theme -->
 <a href="https://www.linkedin.com/in/anmol-8756772501/">
-  <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:the.anmol.jaiswal@gmail.com">
-  <img src="https://img.shields.io/badge/-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=anmolg1997&style=for-the-badge&color=A855F7&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=anmolg1997&style=for-the-badge&color=A855F7&label=Visitors" alt="Profile Views"/>
 
 <br/><br/>
 
-<!-- Experience Highlight -->
-<img src="https://img.shields.io/badge/🚀_AI%2FML_Since-July_2019-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
+<!-- Experience Badges - With Color Accent -->
+<img src="https://img.shields.io/badge/🚀_Since_July_2019-6%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/⚡_Experience-6%2B_Years-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎯_Repos-42%2B-1a1b27?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/📦_42%2B_Repositories-Open_Source-8B5CF6?style=for-the-badge"/>
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;About Me
+<br/>
 
-I architect and build **production AI systems** that actually work — from multi-agent orchestration to enterprise RAG pipelines.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp;About
+
+<table>
+<tr>
+<td>
+
+I build **production AI systems** that reason, plan, and execute autonomously — from multi-agent orchestration to enterprise RAG pipelines serving millions of requests.
+
+<br/>
 
 **🔭 Currently Building:**
-- 🤖 **Multi-Agent Systems** — LangGraph, Google ADK, MCP Tools, A2A Protocol
-- 🔗 **Knowledge Graph RAG** — Neo4j GraphRAG, Hybrid Search, Reranking
-- 👁️ **LLM Observability** — Langfuse, MLflow, OpenSearch
-- ⚡ **Efficient Inference** — vLLM, TensorRT, Edge Deployment
 
-**🎯 2025-26 Focus:**
-- Autonomous agents with planning & self-correction
-- GraphRAG for superior reasoning
-- Production monitoring & guardrails
-- Small Language Models at scale
+| Focus Area | Technologies |
+|:-----------|:-------------|
+| 🤖 **Multi-Agent AI** | LangGraph, Google ADK, MCP Tools, A2A Protocol |
+| 🔗 **Knowledge Graphs** | Neo4j GraphRAG, Hybrid Search, Reranking |
+| 👁️ **LLM Observability** | Langfuse, MLflow, OpenSearch |
+| ⚡ **Efficient Inference** | vLLM, TensorRT, Edge Deployment |
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Featured Projects
+<br/>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> &nbsp;Featured Work
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<h3 align="center">🤖 Multi-Agent-AI-Framework</h3>
-<div align="center">
-<a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<h3 align="center">
+<a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">🤖 Multi-Agent Framework</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">
+<img src="https://img.shields.io/badge/★_View_Project-A855F7?style=for-the-badge"/>
 </a>
-<p><strong>Production multi-agent orchestration</strong> with planner, coder, reviewer agents working in harmony.</p>
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP_Tools-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/A2A-F72585?style=flat-square"/>
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square"/>
-</div>
+</p>
+<p align="center">Production multi-agent orchestration with planner, coder & reviewer agents</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LangGraph-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/A2A-7C3AED?style=flat-square"/>
+</p>
 </td>
-
 <td width="50%" valign="top">
-
-<h3 align="center">🔗 KG_RAG</h3>
-<div align="center">
-<a href="https://github.com/anmolg1997/KG_RAG" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-06D6A0?style=for-the-badge&logo=github&logoColor=white"/>
+<h3 align="center">
+<a href="https://github.com/anmolg1997/KG_RAG">🔗 KG_RAG</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/KG_RAG">
+<img src="https://img.shields.io/badge/★_View_Project-06D6A0?style=for-the-badge"/>
 </a>
-<p><strong>Knowledge Graph + RAG</strong> with Neo4j for intelligent document QA & reasoning chains.</p>
-<img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🏢 Enterprise-RAG-System</h3>
-<div align="center">
-<a href="https://github.com/anmolg1997/Enterprise-RAG-System" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<p><strong>Enterprise-grade RAG</strong> with hybrid search, reranking, guardrails & observability.</p>
-<img src="https://img.shields.io/badge/LlamaIndex-5A29E4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Langfuse-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pinecone-000?style=flat-square"/>
-</div>
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔍 NL2SQL-Engine</h3>
-<div align="center">
-<a href="https://github.com/anmolg1997/NL2SQL-Engine" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<p><strong>Natural Language → SQL</strong> with schema understanding & multi-dialect support.</p>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square"/>
-</div>
+</p>
+<p align="center">Knowledge Graph + RAG with Neo4j for intelligent document QA</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Neo4j-06D6A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-10B981?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square"/>
+</p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<h3 align="center">🧠 SLM-From-Scratch</h3>
-<div align="center">
-<a href="https://github.com/anmolg1997/SLM-From-Scratch" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-EC4899?style=for-the-badge&logo=github&logoColor=white"/>
+<h3 align="center">
+<a href="https://github.com/anmolg1997/Enterprise-RAG-System">🏢 Enterprise RAG</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/Enterprise-RAG-System">
+<img src="https://img.shields.io/badge/★_View_Project-F59E0B?style=for-the-badge"/>
 </a>
-<p><strong>Build Small Language Models</strong> from zero — tokenizers, transformers, RLHF.</p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square"/>
-<img src="https://img.shields.io/badge/RLHF-06D6A0?style=flat-square"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square"/>
-</div>
+</p>
+<p align="center">Enterprise-grade RAG with hybrid search, guardrails & observability</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LlamaIndex-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Langfuse-EAB308?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenSearch-CA8A04?style=flat-square"/>
+</p>
 </td>
-
 <td width="50%" valign="top">
-
-<h3 align="center">⚡ LLM-Finetuning-Toolkit</h3>
-<div align="center">
-<a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit" target="_blank">
-<img src="https://img.shields.io/badge/View_Project-14B8A6?style=for-the-badge&logo=github&logoColor=white"/>
+<h3 align="center">
+<a href="https://github.com/anmolg1997/NL2SQL-Engine">🔍 NL2SQL Engine</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/NL2SQL-Engine">
+<img src="https://img.shields.io/badge/★_View_Project-3B82F6?style=for-the-badge"/>
 </a>
-<p><strong>Production LLM fine-tuning</strong> with LoRA, QLoRA — deploy in hours.</p>
+</p>
+<p align="center">Natural Language → SQL with schema understanding</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LLMs-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Snowflake-1D4ED8?style=flat-square"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/anmolg1997/SLM-From-Scratch">🧠 SLM From Scratch</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/SLM-From-Scratch">
+<img src="https://img.shields.io/badge/★_View_Project-EC4899?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">Build Small Language Models from zero — tokenizers to RLHF</p>
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/DeepSpeed-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/RLHF-BE185D?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">⚡ LLM Finetuning</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">
+<img src="https://img.shields.io/badge/★_View_Project-14B8A6?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">Production fine-tuning with LoRA, QLoRA — deploy in hours</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Unsloth-14B8A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/vLLM-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PEFT-8B5CF6?style=flat-square"/>
-</div>
+<img src="https://img.shields.io/badge/vLLM-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLflow-0F766E?style=flat-square"/>
+</p>
 </td>
 </tr>
 </table>
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;Tech Arsenal
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> &nbsp;Tech Stack
 
 <div align="center">
 
-### 🤖 AI/ML & LLMs
+<!-- Core Skills with Icons -->
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=dark" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=dark" />
 </p>
 
-### 🔗 Agent & RAG Stack
-<p>
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔄_LangGraph-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🦙_LlamaIndex-5A29E4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/🔌_MCP_Tools-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔗_A2A_Protocol-F72585?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/👥_CrewAI-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AutoGen-0078D4?style=for-the-badge"/>
-</p>
+<br/>
 
-### 📊 Knowledge & Observability
+<!-- Specialized Tech - Purple Theme -->
 <p>
-<img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Weaviate-00B5AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/🦜_LangChain-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔄_LangGraph-6D28D9?style=for-the-badge"/>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Langfuse-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-</p>
-
-### ⚛️ Full-Stack & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,ts,tailwind&theme=dark" height="40"/>
+<img src="https://img.shields.io/badge/Neo4j-A855F7?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Langfuse-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-6D28D9?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes&theme=dark" height="40"/>
+<img src="https://img.shields.io/badge/🔌_MCP_Tools-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔗_A2A_Protocol-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_ADK-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-6D28D9?style=for-the-badge"/>
 </p>
 
 </div>
 
-<details>
-<summary><b>📋 &nbsp;View Complete Tech Stack</b></summary>
 <br/>
 
-```yaml
-LLM Providers:
-  - OpenAI (GPT-4o, GPT-4 Turbo)
-  - Anthropic (Claude 3.5 Sonnet, Opus)
-  - Google (Gemini Pro, Ultra)
-  - Meta (Llama 3.2), Mistral, Qwen
+<details>
+<summary><b>📋 &nbsp;Full Tech Breakdown</b></summary>
+<br/>
 
-Agent Frameworks:
-  - LangGraph, Google ADK, CrewAI, AutoGen
-  - MCP Tools (Model Context Protocol)
-  - A2A Protocol (Agent-to-Agent)
-
-RAG & Search:
-  - LangChain, LlamaIndex, Haystack
-  - Neo4j, Pinecone, Weaviate, Qdrant
-  - OpenSearch, Elasticsearch, Hybrid Search
-
-Observability:
-  - Langfuse, MLflow, Weights & Biases
-  - OpenTelemetry, Prometheus, Grafana
-
-Inference & Fine-tuning:
-  - vLLM, TensorRT-LLM, Triton, ONNX
-  - PEFT, LoRA, QLoRA, Unsloth, Axolotl
-
-Frontend & Backend:
-  - React, Vite, Next.js, TypeScript, TailwindCSS
-  - FastAPI, Python, Node.js, GraphQL
-
-Cloud & Infrastructure:
-  - AWS (Bedrock, SageMaker), GCP (Vertex AI)
-  - Docker, Kubernetes, Terraform
+```
+LLM Providers      OpenAI • Anthropic • Google Gemini • Llama • Mistral
+Agent Frameworks   LangGraph • Google ADK • CrewAI • AutoGen • MCP Tools • A2A
+RAG Stack          LangChain • LlamaIndex • Neo4j • Pinecone • Weaviate • OpenSearch
+Observability      Langfuse • MLflow • Weights & Biases • OpenTelemetry
+Inference          vLLM • TensorRT-LLM • Triton • ONNX Runtime
+Fine-tuning        PEFT • LoRA • QLoRA • Unsloth • Axolotl • DeepSpeed
+Frontend           React • Vite • Next.js • TypeScript • TailwindCSS
+Backend            FastAPI • Python • Node.js • GraphQL
+Cloud              AWS (Bedrock, SageMaker) • GCP (Vertex AI) • Azure
+Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
 ```
 
 </details>
 
+<br/>
+
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"/> &nbsp;GitHub Activity
+<br/>
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> &nbsp;Activity
 
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
@@ -263,44 +255,49 @@ Cloud & Infrastructure:
 
 </div>
 
+<br/>
+
 <details>
 <summary><b>📂 &nbsp;More Projects</b></summary>
 <br/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Spark_cum_GPU_sentiment_analyzer](https://github.com/anmolg1997/Spark_cum_GPU_sentiment_analyzer) | Distributed sentiment analysis at scale | PySpark, HuggingFace, CUDA |
-| [Vector-Database-Benchmark](https://github.com/anmolg1997/Vector-Database-Benchmark) | Performance benchmarks for vector DBs | Pinecone, Weaviate, Milvus |
-| [Lead-Scoring](https://github.com/anmolg1997/Lead-Scoring) | ML-based lead scoring system | Scikit-Learn, XGBoost |
-| [Deep-Learning-Projects](https://github.com/anmolg1997/Deep-Learning-Projects) | Collection of DL implementations | TensorFlow, PyTorch |
+| Project | Description |
+|---------|-------------|
+| [Spark_cum_GPU_sentiment_analyzer](https://github.com/anmolg1997/Spark_cum_GPU_sentiment_analyzer) | Distributed sentiment analysis with PySpark & GPU |
+| [Vector-Database-Benchmark](https://github.com/anmolg1997/Vector-Database-Benchmark) | Performance benchmarks for vector databases |
+| [Lead-Scoring](https://github.com/anmolg1997/Lead-Scoring) | ML-based lead scoring system |
+| [Deep-Learning-Projects](https://github.com/anmolg1997/Deep-Learning-Projects) | Collection of DL implementations |
 
 </details>
 
+<br/>
+
 ---
-
-<div align="center">
-
-### 💬 &nbsp;Let's Build Something Amazing
 
 <br/>
 
-*Open to interesting AI/ML projects and collaborations.*
+<div align="center">
 
-**Building something complex? Let's talk.**
+<!-- CTA Section - More Prominent -->
+<img src="https://img.shields.io/badge/💼_Open_to_Collaborations-A855F7?style=for-the-badge"/>
+
+<br/><br/>
+
+### Building something complex? Let's talk.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/anmol-8756772501/">
-  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:the.anmol.jaiswal@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Drop_a_Message-EA4335?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,9,12&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,9,15&height=100&section=footer"/>
