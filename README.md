@@ -1,146 +1,130 @@
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anmol%20Jaiswal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Principal%20AI%20Engineer%20%7C%20Architect%20of%20Intelligent%20Systems&descAlignY=52&descSize=18"/>
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anmol-8756772501/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:the.anmol.jaiswal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/anmolg1997">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=anmolg1997&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Anmol%20Jaiswal&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Principal%20AI%20Engineer&descAlignY=55&descSize=25"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Building+the+Future+of+AI+%E2%80%94+One+Agent+at+a+Time;LLMs+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+RAG+%E2%80%A2+MLOps+at+Scale" alt="Typing SVG" />
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Architecting+Autonomous+AI+Systems+at+Scale;Multi-Agent+Orchestration+%E2%80%A2+Enterprise+RAG+%E2%80%A2+Knowledge+Graphs;Building+the+Future+of+Intelligent+Automation" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-8756772501/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.anmol.jaiswal@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anmolg1997)
+![Profile Views](https://komarev.com/ghpvc/?username=anmolg1997&style=for-the-badge&color=blueviolet)
+
 </div>
 
 ---
 
-## 🎯 About Me
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class PrincipalAIEngineer:
-    def __init__(self):
-        self.name = "Anmol Jaiswal"
-        self.role = "Principal AI Engineer"
-        self.focus = ["LLM Systems", "Multi-Agent AI", "Enterprise RAG", "MLOps"]
-        self.passion = "Architecting AI systems that scale to millions"
-    
-    def current_mission(self):
-        return "Building autonomous AI agents that reason, plan, and execute"
-```
+## 🧠 About Me
 
-<table>
-<tr>
-<td width="50%">
+> **Principal AI Engineer** specializing in building production-grade AI systems that reason, plan, and execute autonomously.
 
-### 🚀 What I Do
+🔭 **Currently Building:** Multi-Agent AI platforms & Knowledge Graph-powered RAG systems
 
-- 🏗️ **Architect** large-scale AI/ML platforms
-- 🤖 **Build** production multi-agent systems  
-- 🧠 **Design** enterprise RAG architectures
-- ⚡ **Optimize** LLM inference at scale
-- 📈 **Lead** AI teams & technical strategy
+🎯 **2025-26 Focus Areas:**
+- 🤖 **Agentic AI** — Autonomous agents with planning & self-correction
+- 🔗 **GraphRAG** — Knowledge Graphs + RAG for superior reasoning
+- 🧬 **SLMs** — Efficient Small Language Models for edge deployment
+- ⚡ **Real-time AI** — Streaming pipelines with instant decision-making
 
-</td>
-<td width="50%">
+💡 **Philosophy:** *"AI should augment human potential, not replace it"*
 
-### 🔬 Current Focus
-
-- 🌐 Multi-Agent Orchestration (LangGraph, CrewAI)
-- 🔍 Advanced RAG with Knowledge Graphs
-- 💬 NL2SQL for Enterprise Analytics
-- 🎯 Small Language Models (SLMs)
-- 🛡️ AI Safety & Guardrails
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🔥 Featured Projects — Actively Building
+## 🔥 What's Hot in AI (2025-2026)
+
+<div align="center">
+
+| Trend | My Work |
+|:------|:--------|
+| 🤖 **Multi-Agent Systems** | Building orchestration frameworks with LangGraph & CrewAI |
+| 🧠 **Agentic RAG** | Combining autonomous agents with retrieval for reasoning |
+| 🔗 **Knowledge Graphs** | Neo4j-powered context understanding & explainable AI |
+| 🎯 **Small Language Models** | Training efficient SLMs from scratch for production |
+| 🛡️ **AI Guardrails** | Enterprise safety, governance & ISO 42001 compliance |
+| ⚡ **Real-time AI Pipelines** | Live data streams with autonomous decision-making |
+
+</div>
+
+---
+
+## 🚀 Featured Projects — Building the Future
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 [Multi-Agent-AI-Framework](https://github.com/anmolg1997/Multi-Agent-AI-Framework)
-Production-ready multi-agent orchestration with **LangGraph**, **AutoGen** & **CrewAI**. Build autonomous agent teams that collaborate, reason, and execute complex workflows.
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/2025-Trending-blueviolet?style=flat-square"/>
 
-`LangGraph` `CrewAI` `AutoGen` `OpenAI` `Anthropic`
+Production multi-agent orchestration with **planner**, **coder**, **reviewer** & **executor** agents working in harmony.
+
+<sub>**Stack:** `LangGraph` `CrewAI` `AutoGen` `GPT-4` `Claude`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+
+### 🔗 [KG_RAG](https://github.com/anmolg1997/KG_RAG)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/GraphRAG-Featured-orange?style=flat-square"/>
+
+**Knowledge Graph + RAG** — Neo4j-powered intelligent document QA with entity relationships & reasoning chains.
+
+<sub>**Stack:** `Neo4j` `LangChain` `FastAPI` `React` `Vite`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔍 [NL2SQL-Engine](https://github.com/anmolg1997/NL2SQL-Engine)
-Natural Language to SQL with **schema understanding**, **query optimization**, and **multi-dialect support**. Talk to your databases in plain English.
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Enterprise-Ready-blue?style=flat-square"/>
 
-`LLMs` `SQL` `PostgreSQL` `Snowflake` `BigQuery`
+Natural Language → SQL with **schema understanding**, **query optimization** & **multi-dialect** support. Talk to your data.
+
+<sub>**Stack:** `LLMs` `PostgreSQL` `Snowflake` `BigQuery` `DuckDB`</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏢 [Enterprise-RAG-System](https://github.com/anmolg1997/Enterprise-RAG-System)
-Enterprise-grade RAG with **hybrid search**, **re-ranking**, **guardrails**, and **multi-tenancy**. Production RAG that actually works.
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Production-Grade-red?style=flat-square"/>
 
-`LangChain` `LlamaIndex` `Pinecone` `Neo4j` `FastAPI`
+Enterprise RAG with **hybrid search**, **reranking**, **guardrails** & **multi-tenancy**. RAG that actually works.
 
-</td>
-<td width="50%">
-
-### 🧠 [SLM-From-Scratch](https://github.com/anmolg1997/SLM-From-Scratch)
-Build **Small Language Models** from scratch — tokenization, transformer architecture, pre-training, fine-tuning & RLHF. Learn by building.
-
-`PyTorch` `Transformers` `RLHF` `DeepSpeed` `CUDA`
+<sub>**Stack:** `LlamaIndex` `Pinecone` `Cohere` `FastAPI` `React`</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ [LLM-Finetuning-Toolkit](https://github.com/anmolg1997/LLM-Finetuning-Toolkit)
-Production LLM fine-tuning with **LoRA**, **QLoRA**, **PEFT** & distributed training. From base model to production in hours, not weeks.
+### 🧠 [SLM-From-Scratch](https://github.com/anmolg1997/SLM-From-Scratch)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/Educational-Tutorial-yellow?style=flat-square"/>
 
-`PEFT` `LoRA` `QLoRA` `Axolotl` `Unsloth`
+Build **Small Language Models** from zero — tokenizers, transformers, pre-training, SFT & RLHF. Learn by building.
+
+<sub>**Stack:** `PyTorch` `Transformers` `DeepSpeed` `RLHF` `CUDA`</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 [KG_RAG](https://github.com/anmolg1997/KG_RAG)
-**Knowledge Graph + RAG** for intelligent document QA. Combines structured knowledge with semantic search for superior retrieval.
+### ⚡ [LLM-Finetuning-Toolkit](https://github.com/anmolg1997/LLM-Finetuning-Toolkit)
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square"/> <img src="https://img.shields.io/badge/MLOps-Ready-cyan?style=flat-square"/>
 
-`Neo4j` `LangChain` `FastAPI` `React` `Docker`
+Production fine-tuning with **LoRA**, **QLoRA**, **PEFT** — from base model to deployed endpoint in hours.
+
+<sub>**Stack:** `Unsloth` `Axolotl` `PEFT` `vLLM` `TensorRT`</sub>
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 More Projects — ML • NLP • Deep Learning
-
-<details>
-<summary><b>🔬 Click to expand full project portfolio</b></summary>
-<br>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 📊 **[Vector-Database-Benchmark](https://github.com/anmolg1997/Vector-Database-Benchmark)** | Comprehensive benchmarks for vector DBs | Pinecone, Weaviate, Milvus, Qdrant |
-| 🔥 **[Spark GPU Sentiment Analyzer](https://github.com/anmolg1997/Spark_cum_GPU_sentiment_analyzer)** | Distributed sentiment analysis at scale | PySpark, HuggingFace, CUDA |
-| 📈 **[Lead Scoring System](https://github.com/anmolg1997/Lead-Scoring)** | ML-based lead scoring for marketing | Scikit-Learn, XGBoost |
-| 🛒 **[Product Recommendation](https://github.com/anmolg1997/Sentiment-Based-Product-Recommendation-System)** | Sentiment-aware recommendations | NLP, Collaborative Filtering |
-| 🧠 **[Deep Learning Projects](https://github.com/anmolg1997/Deep-Learning-Projects)** | Collection of DL implementations | TensorFlow, PyTorch, Keras |
-
-</details>
 
 ---
 
@@ -148,53 +132,81 @@ Production LLM fine-tuning with **LoRA**, **QLoRA**, **PEFT** & distributed trai
 
 <div align="center">
 
-### Languages & Core
+### 🤖 AI/ML & LLMs
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### AI/ML & LLMs
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### Data & Vector DBs
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+### 🔗 Knowledge & Vector
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B5AD?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### MLOps & Cloud
+### ⚛️ Frontend & Full-Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ☁️ Cloud & MLOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🔧 Agent & RAG Frameworks
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-5A29E4?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🔄_LangGraph-FF6B6B?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/👥_CrewAI-00C7B7?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/🤖_AutoGen-0078D4?style=for-the-badge)
 
 </div>
 
 <details>
-<summary><b>📋 Complete Tech Stack Breakdown</b></summary>
+<summary><b>📋 Complete Tech Stack (Click to Expand)</b></summary>
 <br>
 
-| Category | Technologies |
-|----------|-------------|
-| **LLM Frameworks** | LangChain, LlamaIndex, LangGraph, Semantic Kernel, Haystack |
-| **Agent Frameworks** | AutoGen, CrewAI, LangGraph, Agency Swarm |
-| **LLM Providers** | OpenAI (GPT-4), Anthropic (Claude), Google (Gemini), Mistral, Llama |
+| Domain | Technologies |
+|--------|-------------|
+| **LLM Providers** | OpenAI (GPT-4o), Anthropic (Claude 3.5), Google (Gemini), Mistral, Llama 3.2, Qwen |
+| **Agent Frameworks** | LangGraph, CrewAI, AutoGen, Agency Swarm, Semantic Kernel |
+| **RAG Stack** | LangChain, LlamaIndex, Haystack, Unstructured, Cohere Rerank |
+| **Knowledge Graphs** | Neo4j, Amazon Neptune, GraphDB, RDF/SPARQL |
 | **Vector Databases** | Pinecone, Weaviate, Milvus, Qdrant, ChromaDB, pgvector |
-| **ML/DL** | PyTorch, TensorFlow, JAX, Scikit-learn, XGBoost, LightGBM |
-| **NLP** | HuggingFace Transformers, spaCy, NLTK, Spark NLP |
-| **Fine-tuning** | PEFT, LoRA, QLoRA, Axolotl, Unsloth, DeepSpeed |
-| **MLOps** | MLflow, Weights & Biases, Kubeflow, Airflow, DVC |
-| **Big Data** | Apache Spark, Databricks, Apache Kafka, Flink |
-| **Cloud** | AWS (SageMaker, Bedrock), GCP (Vertex AI), Azure ML |
-| **Databases** | PostgreSQL, MongoDB, Neo4j, Redis, Elasticsearch |
+| **ML/DL** | PyTorch, TensorFlow, JAX, Scikit-learn, XGBoost |
+| **Fine-tuning** | PEFT, LoRA, QLoRA, Unsloth, Axolotl, DeepSpeed, FSDP |
+| **Inference** | vLLM, TensorRT-LLM, Triton, ONNX Runtime |
+| **Frontend** | React, Vite, Next.js, TypeScript, TailwindCSS, Shadcn/ui |
+| **Backend** | FastAPI, Python, Node.js, GraphQL |
+| **MLOps** | MLflow, W&B, Kubeflow, Airflow, DVC, BentoML |
+| **Big Data** | Apache Spark, Databricks, Kafka, Flink |
+| **Cloud** | AWS (Bedrock, SageMaker), GCP (Vertex AI), Azure ML |
 | **Infrastructure** | Docker, Kubernetes, Terraform, GitHub Actions |
+
+</details>
+
+---
+
+## 📊 More Projects
+
+<details>
+<summary><b>🔬 ML • NLP • Deep Learning • Data Science (Click to Expand)</b></summary>
+<br>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📊 **[Vector-Database-Benchmark](https://github.com/anmolg1997/Vector-Database-Benchmark)** | Performance benchmarks across vector DBs | Pinecone, Weaviate, Milvus |
+| 🔥 **[Spark GPU Sentiment](https://github.com/anmolg1997/Spark_cum_GPU_sentiment_analyzer)** | Distributed sentiment at scale | PySpark, HuggingFace, CUDA |
+| 📈 **[Lead Scoring](https://github.com/anmolg1997/Lead-Scoring)** | ML-based lead scoring | Scikit-Learn, XGBoost |
+| 🛒 **[Product Recommendations](https://github.com/anmolg1997/Sentiment-Based-Product-Recommendation-System)** | Sentiment-aware recommendations | NLP, Collaborative Filtering |
+| 🧠 **[Deep Learning Projects](https://github.com/anmolg1997/Deep-Learning-Projects)** | DL implementations & experiments | TensorFlow, PyTorch |
 
 </details>
 
@@ -203,28 +215,37 @@ Production LLM fine-tuning with **LoRA**, **QLoRA**, **PEFT** & distributed trai
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolg1997&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=anmolg1997&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolg1997&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=10" alt="Top Languages"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7" alt="Activity Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  
-### 💡 *"The best way to predict the future is to build it — with AI."*
+
+### 🌟 *"The best AI systems don't just answer questions — they understand context, reason through complexity, and take intelligent action."*
 
 <br>
 
-**Let's build something amazing together.**
+**Interested in building the future of AI together?**
 
 <a href="https://www.linkedin.com/in/anmol-8756772501/">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+  <img src="https://img.shields.io/badge/Let's_Connect_→-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
 </a>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
