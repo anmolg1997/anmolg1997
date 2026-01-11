@@ -32,47 +32,25 @@
 
 </div>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br/>
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;About Me
 
-<img align="right" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444d536c4a53685a61436d5869454f48634b6e6a49354a7331757a714d4f687258384668496f69632f6b657937416e745a6554754f6f354473647a7a41556b49674f47674f38395a4546545a6c415a4d664c61665366466d3862535a7a566f38504c336b5a586f4a6363303546622b347332645a716d5a354d4d315541362f6c6f676f2e676966"/>
-
 I architect and build **production AI systems** that actually work — from multi-agent orchestration to enterprise RAG pipelines.
 
-<br/>
+**🔭 Currently Building:**
+- 🤖 **Multi-Agent Systems** — LangGraph, Google ADK, MCP Tools, A2A Protocol
+- 🔗 **Knowledge Graph RAG** — Neo4j GraphRAG, Hybrid Search, Reranking
+- 👁️ **LLM Observability** — Langfuse, MLflow, OpenSearch
+- ⚡ **Efficient Inference** — vLLM, TensorRT, Edge Deployment
 
-### 🔭 &nbsp;Currently Building
+**🎯 2025-26 Focus:**
+- Autonomous agents with planning & self-correction
+- GraphRAG for superior reasoning
+- Production monitoring & guardrails
+- Small Language Models at scale
 
-```typescript
-const currentFocus = {
-  agents: ["LangGraph", "Google ADK", "MCP Tools", "A2A Protocol"],
-  rag: ["Neo4j GraphRAG", "Hybrid Search", "Reranking"],
-  observability: ["Langfuse", "MLflow", "OpenSearch"],
-  inference: ["vLLM", "TensorRT", "Edge Deployment"]
-};
-```
-
-<br/>
-
-### 🎯 &nbsp;2025-26 Focus Areas
-
-- **🤖 Multi-Agent Systems** — Autonomous agents with MCP Tools & A2A Protocol
-- **🔗 GraphRAG** — Knowledge Graphs + RAG for superior reasoning
-- **👁️ LLM Observability** — Production monitoring with Langfuse
-- **⚡ Efficient AI** — SLMs & optimized inference at scale
-
-<br clear="both"/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br/>
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;Featured Projects
 
@@ -87,7 +65,7 @@ const currentFocus = {
 <img src="https://img.shields.io/badge/View_Project-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <p><strong>Production multi-agent orchestration</strong> with planner, coder, reviewer agents working in harmony.</p>
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PC9zdmc+"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square"/>
 <img src="https://img.shields.io/badge/MCP_Tools-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/A2A-F72585?style=flat-square"/>
 <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square"/>
@@ -176,12 +154,7 @@ const currentFocus = {
 </table>
 </div>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br/>
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;Tech Arsenal
 
@@ -235,8 +208,6 @@ const currentFocus = {
 
 </div>
 
-<br/>
-
 <details>
 <summary><b>📋 &nbsp;View Complete Tech Stack</b></summary>
 <br/>
@@ -262,41 +233,26 @@ Observability:
   - Langfuse, MLflow, Weights & Biases
   - OpenTelemetry, Prometheus, Grafana
 
-Inference:
-  - vLLM, TensorRT-LLM, Triton
-  - ONNX Runtime, TGI
+Inference & Fine-tuning:
+  - vLLM, TensorRT-LLM, Triton, ONNX
+  - PEFT, LoRA, QLoRA, Unsloth, Axolotl
 
-Fine-tuning:
-  - PEFT, LoRA, QLoRA
-  - Unsloth, Axolotl, DeepSpeed
+Frontend & Backend:
+  - React, Vite, Next.js, TypeScript, TailwindCSS
+  - FastAPI, Python, Node.js, GraphQL
 
-Frontend:
-  - React, Vite, Next.js
-  - TypeScript, TailwindCSS, Shadcn/ui
-
-Backend & Cloud:
-  - FastAPI, Python, Node.js
+Cloud & Infrastructure:
   - AWS (Bedrock, SageMaker), GCP (Vertex AI)
   - Docker, Kubernetes, Terraform
 ```
 
 </details>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br/>
+---
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"/> &nbsp;GitHub Activity
 
 <div align="center">
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=anmolg1997&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-<br/><br/>
 
 <!-- Snake Animation -->
 <picture>
@@ -306,8 +262,6 @@ Backend & Cloud:
 </picture>
 
 </div>
-
-<br/>
 
 <details>
 <summary><b>📂 &nbsp;More Projects</b></summary>
@@ -322,16 +276,11 @@ Backend & Cloud:
 
 </details>
 
-<br/>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
-<br/>
+---
 
 <div align="center">
 
-## 💬 &nbsp;Let's Build Something Amazing
+### 💬 &nbsp;Let's Build Something Amazing
 
 <br/>
 
@@ -348,10 +297,6 @@ Backend & Cloud:
 <a href="mailto:the.anmol.jaiswal@gmail.com">
   <img src="https://img.shields.io/badge/📧_Drop_a_Message-EA4335?style=for-the-badge&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20AI%20systems%20don%27t%20just%20answer%20questions%20%E2%80%94%20they%20understand%20context%2C%20reason%20through%20complexity%2C%20and%20take%20intelligent%20action.&author="/>
 
 </div>
 
