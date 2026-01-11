@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=200&section=header&text=Anmol%20Jaiswal&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Principal%20AI%20Engineer&descAlignY=55&descSize=22"/>
+<!-- Bubble Animation Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,3,1&height=200&section=header&text=Anmol%20Jaiswal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Principal%20AI%20Engineer&descAlignY=55&descSize=22&stroke=A855F7"/>
 
 <!-- Shorter Typing Animation - Responsive -->
 <a href="https://github.com/anmolg1997">
@@ -27,8 +27,8 @@
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -61,8 +61,8 @@
 
 <br clear="both"/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -70,34 +70,26 @@
 
 <div align="center">
 
-<!-- Project Cards - Modern Grid -->
-<a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolg1997&repo=Multi-Agent-AI-Framework&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A855F7&icon_color=F72585" />
-</a>
-<a href="https://github.com/anmolg1997/KG_RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolg1997&repo=KG_RAG&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A855F7&icon_color=06D6A0" />
-</a>
-
-<a href="https://github.com/anmolg1997/NL2SQL-Engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolg1997&repo=NL2SQL-Engine&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A855F7&icon_color=3B82F6" />
-</a>
-<a href="https://github.com/anmolg1997/Enterprise-RAG-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolg1997&repo=Enterprise-RAG-System&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A855F7&icon_color=F59E0B" />
-</a>
-
-<a href="https://github.com/anmolg1997/SLM-From-Scratch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolg1997&repo=SLM-From-Scratch&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A855F7&icon_color=EC4899" />
-</a>
-<a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolg1997&repo=LLM-Finetuning-Toolkit&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=A855F7&icon_color=14B8A6" />
-</a>
+| | |
+|:---:|:---:|
+| [**🤖 Multi-Agent-AI-Framework**](https://github.com/anmolg1997/Multi-Agent-AI-Framework) | [**🔗 KG_RAG**](https://github.com/anmolg1997/KG_RAG) |
+| Multi-agent orchestration with LangGraph, Google ADK & MCP Tools | Knowledge Graph + RAG with Neo4j for intelligent QA |
+| ![](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square) ![](https://img.shields.io/badge/MCP-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/A2A-F72585?style=flat-square) | ![](https://img.shields.io/badge/Neo4j-018BFF?style=flat-square) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square) |
+| | |
+| [**🔍 NL2SQL-Engine**](https://github.com/anmolg1997/NL2SQL-Engine) | [**🏢 Enterprise-RAG-System**](https://github.com/anmolg1997/Enterprise-RAG-System) |
+| Natural Language → SQL with schema understanding | Enterprise RAG with hybrid search & guardrails |
+| ![](https://img.shields.io/badge/LLMs-412991?style=flat-square) ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square) ![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square) | ![](https://img.shields.io/badge/LlamaIndex-5A29E4?style=flat-square) ![](https://img.shields.io/badge/Pinecone-000?style=flat-square) ![](https://img.shields.io/badge/Langfuse-FF6B6B?style=flat-square) |
+| | |
+| [**🧠 SLM-From-Scratch**](https://github.com/anmolg1997/SLM-From-Scratch) | [**⚡ LLM-Finetuning-Toolkit**](https://github.com/anmolg1997/LLM-Finetuning-Toolkit) |
+| Build Small Language Models from zero | Production fine-tuning with LoRA, QLoRA, PEFT |
+| ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square) ![](https://img.shields.io/badge/RLHF-06D6A0?style=flat-square) ![](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square) | ![](https://img.shields.io/badge/Unsloth-14B8A6?style=flat-square) ![](https://img.shields.io/badge/vLLM-F59E0B?style=flat-square) ![](https://img.shields.io/badge/MLflow-0194E2?style=flat-square) |
 
 </div>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -191,8 +183,8 @@
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -224,8 +216,8 @@
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Clean Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <br/>
 
@@ -246,6 +238,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,3,1&height=150&section=footer&reversal=true"/>
 
 </div>
