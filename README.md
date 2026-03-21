@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/🚀_Since_July_2019-6%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📦_42%2B_Repositories-Open_Source-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦_8_Production_AI_Systems-Open_Source-8B5CF6?style=for-the-badge"/>
 
 </div>
 
@@ -307,22 +307,12 @@ Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
   <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolg1997&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+
 </div>
-
-<br/>
-
-<details>
-<summary><b>📂 &nbsp;More Projects</b></summary>
-<br/>
-
-| Project | Description |
-|---------|-------------|
-| [Spark_cum_GPU_sentiment_analyzer](https://github.com/anmolg1997/Spark_cum_GPU_sentiment_analyzer) | Distributed sentiment analysis with PySpark & GPU |
-| [Vector-Database-Benchmark](https://github.com/anmolg1997/Vector-Database-Benchmark) | Performance benchmarks for vector databases |
-| [Lead-Scoring](https://github.com/anmolg1997/Lead-Scoring) | ML-based lead scoring system |
-| [Deep-Learning-Projects](https://github.com/anmolg1997/Deep-Learning-Projects) | Collection of DL implementations |
-
-</details>
 
 <br/>
 
