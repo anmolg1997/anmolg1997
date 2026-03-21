@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/🚀_Since_July_2019-6%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📦_8_Production_AI_Systems-Open_Source-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦_9_Production_AI_Systems-Open_Source-8B5CF6?style=for-the-badge"/>
 
 </div>
 
@@ -206,7 +206,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" colspan="2">
+<td width="50%" valign="top">
 <h3 align="center">
 <a href="https://github.com/anmolg1997/Domain-Adaptive-LLM">🏥 Domain-Adaptive LLM</a>
 </h3>
@@ -220,7 +220,22 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/MedQA-F43F5E?style=flat-square"/>
 <img src="https://img.shields.io/badge/LegalBench-E11D48?style=flat-square"/>
 <img src="https://img.shields.io/badge/FinBench-BE123C?style=flat-square"/>
-<img src="https://img.shields.io/badge/HumanEval-9F1239?style=flat-square"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+<a href="https://github.com/anmolg1997/fnol-early-fraud-detection">🛡️ FNOL Fraud Detection</a>
+</h3>
+<p align="center">
+<a href="https://github.com/anmolg1997/fnol-early-fraud-detection">
+<img src="https://img.shields.io/badge/★_View_Project-DC2626?style=for-the-badge"/>
+</a>
+</p>
+<p align="center">ML-powered insurance fraud detection — 10 expert rules, PyCaret AutoML, explainable decisions</p>
+<p align="center">
+<img src="https://img.shields.io/badge/PyCaret-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-B91C1C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Rules_Engine-991B1B?style=flat-square"/>
 </p>
 </td>
 </tr>
