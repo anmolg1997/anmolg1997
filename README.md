@@ -224,10 +224,10 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 </td>
 <td width="50%" valign="top">
 <h3 align="center">
-<a href="https://github.com/anmolg1997/fnol-early-fraud-detection">🛡️ FNOL Fraud Detection</a>
+<a href="https://github.com/anmolg1997/Insurance-Fraud-Detection">🛡️ Insurance Fraud Detection</a>
 </h3>
 <p align="center">
-<a href="https://github.com/anmolg1997/fnol-early-fraud-detection">
+<a href="https://github.com/anmolg1997/Insurance-Fraud-Detection">
 <img src="https://img.shields.io/badge/★_View_Project-DC2626?style=for-the-badge"/>
 </a>
 </p>
