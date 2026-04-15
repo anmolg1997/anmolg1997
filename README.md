@@ -264,7 +264,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <p align="center">Designed the first Firestore session service — transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
 <p align="center">
 <a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/5_PRs-Sessions_·_Plugins_·_Models-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/8_PRs-Sessions_·_Memory_·_Models_·_CLI-4285F4?style=flat-square"/>
 </a>
 </p>
 </td>
@@ -295,6 +295,38 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/3_PRs-LangGraph_Adapter_Fixes-FF6F00?style=flat-square"/>
 </a>
 </p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/pydantic%2Fpydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
+<p align="center">Built-in history processor for orphaned tool call/result repair preventing provider 400 errors, and fixed LLM-as-judge reason field pollution from reasoning models.</p>
+<p align="center">
+<a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/2_PRs-History_Repair_·_Eval_Fix-E92063?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ggml--org%2Fllama.cpp-00ADD8?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Added type and integer range validation to GGUFWriter.add_key_value — catches type mismatches and integer overflow/underflow before they silently corrupt model metadata.</p>
+<p align="center">
+<a href="https://github.com/ggml-org/llama.cpp/pull/21931">
+<img src="https://img.shields.io/badge/PR_%2321931-GGUF_Type_Validation-00ADD8?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
 </td>
 </tr>
 </table>
