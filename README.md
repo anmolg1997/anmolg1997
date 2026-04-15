@@ -248,6 +248,65 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 
 <br/>
 
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> &nbsp;Open Source Contributions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/google/adk-python">Google ADK Python</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/google%2Fadk--python-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+<p align="center">Designed the first Firestore session service — transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
+<p align="center">
+<a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/5_PRs-Sessions_·_Plugins_·_Models-4285F4?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/google/adk-python-community">ADK Community</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/google%2Fadk--python--community-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+<p align="center">Contributed FirestoreSessionService with 19 unit tests, in-memory mocks, and production-grade design — race-safe transactions, N+1 query elimination, async batch deletes.</p>
+<p align="center">
+<a href="https://github.com/google/adk-python-community/pull/104">
+<img src="https://img.shields.io/badge/PR_%23104-Firestore_Sessions-34A853?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ag--ui--protocol%2Fag--ui-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Bug fixes to the LangGraph adapter — trailing slash route fix, fork config passthrough, and message ID validation for regenerate streams.</p>
+<p align="center">
+<a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/3_PRs-LangGraph_Adapter_Fixes-FF6F00?style=flat-square"/>
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> &nbsp;Tech Stack
 
 <div align="center">
