@@ -41,7 +41,7 @@
 <tr>
 <td>
 
-I build **production AI systems** that reason, plan, and execute autonomously — from multi-agent orchestration to enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
+I build **production AI systems** that reason, plan, and execute autonomously, from multi-agent orchestration to enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
 
 <br/>
 
@@ -79,7 +79,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-A855F7?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Production multi-agent orchestration with Google ADK — coordinator, planner, coder & reviewer agents</p>
+<p align="center">Production multi-agent orchestration with Google ADK: coordinator, planner, coder & reviewer agents</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Google_ADK-A855F7?style=flat-square"/>
 <img src="https://img.shields.io/badge/A2A-8B5CF6?style=flat-square"/>
@@ -147,7 +147,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-EC4899?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Build language models from zero — tokenizer, transformer, training, alignment</p>
+<p align="center">Build language models from zero: tokenizer, transformer, training, alignment</p>
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EC4899?style=flat-square"/>
 <img src="https://img.shields.io/badge/DeepSpeed-DB2777?style=flat-square"/>
@@ -163,7 +163,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-14B8A6?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Production LoRA/QLoRA fine-tuning — YAML recipes, MLflow, vLLM serving</p>
+<p align="center">Production LoRA/QLoRA fine-tuning: YAML recipes, MLflow, vLLM serving</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Unsloth-14B8A6?style=flat-square"/>
 <img src="https://img.shields.io/badge/vLLM-0D9488?style=flat-square"/>
@@ -181,7 +181,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-6366F1?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">One base model, many adapters per request — OpenAI-compatible inference gateway</p>
+<p align="center">One base model, many adapters per request, OpenAI-compatible inference gateway</p>
 <p align="center">
 <img src="https://img.shields.io/badge/vLLM-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/LoRA-4F46E5?style=flat-square"/>
@@ -197,7 +197,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-475569?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Adapter lifecycle — train, evaluate, merge (TIES/DARE), version & publish</p>
+<p align="center">Adapter lifecycle: train, evaluate, merge (TIES/DARE), version & publish</p>
 <p align="center">
 <img src="https://img.shields.io/badge/MergeKit-475569?style=flat-square"/>
 <img src="https://img.shields.io/badge/MinIO-334155?style=flat-square"/>
@@ -215,7 +215,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-F43F5E?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">Specialize LLMs for medical, legal, finance & code — domain benchmarks, curriculum training, safety guardrails</p>
+<p align="center">Specialize LLMs for medical, legal, finance & code: domain benchmarks, curriculum training, safety guardrails</p>
 <p align="center">
 <img src="https://img.shields.io/badge/MedQA-F43F5E?style=flat-square"/>
 <img src="https://img.shields.io/badge/LegalBench-E11D48?style=flat-square"/>
@@ -231,7 +231,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <img src="https://img.shields.io/badge/★_View_Project-DC2626?style=for-the-badge"/>
 </a>
 </p>
-<p align="center">ML-powered insurance fraud detection — 10 expert rules, PyCaret AutoML, explainable decisions</p>
+<p align="center">ML-powered insurance fraud detection: 10 expert rules, PyCaret AutoML, explainable decisions</p>
 <p align="center">
 <img src="https://img.shields.io/badge/PyCaret-DC2626?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastAPI-B91C1C?style=flat-square"/>
@@ -261,7 +261,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <p align="center">
 <img src="https://img.shields.io/badge/google%2Fadk--python-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-<p align="center">Designed the first Firestore session service — transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
+<p align="center">Designed the first Firestore session service: transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
 <p align="center">
 <a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">
 <img src="https://img.shields.io/badge/8_PRs-Sessions_·_Memory_·_Models_·_CLI-4285F4?style=flat-square"/>
@@ -275,7 +275,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <p align="center">
 <img src="https://img.shields.io/badge/google%2Fadk--python--community-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
-<p align="center">Contributed FirestoreSessionService with 19 unit tests, in-memory mocks, and production-grade design — race-safe transactions, N+1 query elimination, async batch deletes.</p>
+<p align="center">Contributed FirestoreSessionService with 19 unit tests, in-memory mocks, and production-grade design: race-safe transactions, N+1 query elimination, async batch deletes.</p>
 <p align="center">
 <a href="https://github.com/google/adk-python-community/pull/104">
 <img src="https://img.shields.io/badge/PR_%23104-Firestore_Sessions-34A853?style=flat-square"/>
@@ -289,7 +289,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <p align="center">
 <img src="https://img.shields.io/badge/ag--ui--protocol%2Fag--ui-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<p align="center">Bug fixes to the LangGraph adapter — trailing slash route fix, fork config passthrough, and message ID validation for regenerate streams.</p>
+<p align="center">Bug fixes to the LangGraph adapter: trailing slash route fix, fork config passthrough, and message ID validation for regenerate streams.</p>
 <p align="center">
 <a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997">
 <img src="https://img.shields.io/badge/3_PRs-LangGraph_Adapter_Fixes-FF6F00?style=flat-square"/>
@@ -319,7 +319,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <p align="center">
 <img src="https://img.shields.io/badge/ggml--org%2Fllama.cpp-00ADD8?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<p align="center">Added type and integer range validation to GGUFWriter.add_key_value — catches type mismatches and integer overflow/underflow before they silently corrupt model metadata.</p>
+<p align="center">Added type and integer range validation to GGUFWriter.add_key_value: catches type mismatches and integer overflow/underflow before they silently corrupt model metadata.</p>
 <p align="center">
 <a href="https://github.com/ggml-org/llama.cpp/pull/21931">
 <img src="https://img.shields.io/badge/PR_%2321931-GGUF_Type_Validation-00ADD8?style=flat-square"/>
