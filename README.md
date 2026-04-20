@@ -5,7 +5,7 @@
 
 <!-- Animated Role Text -->
 <a href="https://github.com/anmolg1997">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;6%2B+Years+in+Production+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;7%2B+Years+in+Production+AI" alt="Typing SVG" />
 </a>
 
 <br/><br/>
