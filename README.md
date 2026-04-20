@@ -1,5 +1,5 @@
 <!-- Header with Bubble Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Principal%20AI%20Engineer&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55"/>
 
 <div align="center">
 
