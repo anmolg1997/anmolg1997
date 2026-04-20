@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🚀_Since_July_2019-6%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Since_July_2019-7%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📦_9_Production_AI_Systems-Open_Source-8B5CF6?style=for-the-badge"/>
 
