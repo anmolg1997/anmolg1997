@@ -327,6 +327,18 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 </p>
 </td>
 <td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/pypi/v/adk-database-memory?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=0EA5E9"/>
+</p>
+<p align="center">SQL-backed persistent memory service for the Google Agent Development Kit. Async SQLAlchemy, Postgres / MySQL / SQLite, drop-in for InMemoryMemoryService. Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a>.</p>
+<p align="center">
+<a href="https://pypi.org/project/adk-database-memory/">
+<img src="https://img.shields.io/badge/Standalone_Package-Listed_on_ADK_Docs-0EA5E9?style=flat-square"/>
+</a>
+</p>
 </td>
 </tr>
 </table>
