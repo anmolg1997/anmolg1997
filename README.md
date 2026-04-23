@@ -328,6 +328,23 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 </td>
 <td width="33%" valign="top">
 <h3 align="center">
+<a href="https://github.com/BerriAI/litellm">LiteLLM</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/BerriAI%2Flitellm-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Fixed KeyError crash in Anthropic file-id discovery when messages carry non-OpenAI file content blocks (e.g. LangChain v1). Skip non-matching shapes instead of raising.</p>
+<p align="center">
+<a href="https://github.com/BerriAI/litellm/pull/26228">
+<img src="https://img.shields.io/badge/PR_%2326228-Multimodal_File_Block_Fix-7C3AED?style=flat-square"/>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="33%"></td>
+<td width="33%" valign="top">
+<h3 align="center">
 <a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>
 </h3>
 <p align="center">
@@ -340,6 +357,7 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 </a>
 </p>
 </td>
+<td width="33%"></td>
 </tr>
 </table>
 
