@@ -65,6 +65,127 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 
 <br/>
 
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> &nbsp;Open Source Contributions
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/google/adk-python">Google ADK Python</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/google%2Fadk--python-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+<p align="center">Designed the first Firestore session service: transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
+<p align="center">
+<a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/8_PRs-Sessions_·_Memory_·_Models_·_CLI-4285F4?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/google/adk-python-community">ADK Community</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/google%2Fadk--python--community-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+<p align="center">Contributed FirestoreSessionService with 19 unit tests, in-memory mocks, and production-grade design: race-safe transactions, N+1 query elimination, async batch deletes.</p>
+<p align="center">
+<a href="https://github.com/google/adk-python-community/pull/104">
+<img src="https://img.shields.io/badge/PR_%23104-Firestore_Sessions-34A853?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ag--ui--protocol%2Fag--ui-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Major ADK middleware upgrade for <code>google-adk 2.0</code> (+975/-48 LOC, closed <a href="https://github.com/ag-ui-protocol/ag-ui/pull/1746">2 upstream issues</a>), plus LangGraph adapter fixes: trailing slash route, fork config passthrough, regenerate stream message IDs.</p>
+<p align="center">
+<a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/4_PRs-ADK_2.0_%2B_LangGraph_Fixes-FF6F00?style=flat-square"/>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/pydantic%2Fpydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
+<p align="center">Built-in history processor for orphaned tool call/result repair preventing provider 400 errors, and fixed LLM-as-judge reason field pollution from reasoning models.</p>
+<p align="center">
+<a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/2_PRs-History_Repair_·_Eval_Fix-E92063?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/ggml--org%2Fllama.cpp-00ADD8?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Added type and integer range validation to GGUFWriter.add_key_value: catches type mismatches and integer overflow/underflow before they silently corrupt model metadata.</p>
+<p align="center">
+<a href="https://github.com/ggml-org/llama.cpp/pull/21931">
+<img src="https://img.shields.io/badge/PR_%2321931-GGUF_Type_Validation-00ADD8?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/BerriAI/litellm">LiteLLM</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/BerriAI%2Flitellm-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Fixed KeyError crash in Anthropic file-id discovery when messages carry non-OpenAI file content blocks (e.g. LangChain v1). Skip non-matching shapes instead of raising.</p>
+<p align="center">
+<a href="https://github.com/BerriAI/litellm/pull/26228">
+<img src="https://img.shields.io/badge/PR_%2326228-Multimodal_File_Block_Fix-7C3AED?style=flat-square"/>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="33%"></td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/pypi/v/adk-database-memory?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=0EA5E9"/>
+</p>
+<p align="center">SQL-backed persistent memory service for the Google Agent Development Kit. Async SQLAlchemy, Postgres / MySQL / SQLite, drop-in for InMemoryMemoryService. Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a>.</p>
+<p align="center">
+<a href="https://pypi.org/project/adk-database-memory/">
+<img src="https://img.shields.io/badge/Standalone_Package-Listed_on_ADK_Docs-0EA5E9?style=flat-square"/>
+</a>
+</p>
+</td>
+<td width="33%"></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> &nbsp;Featured Work
 
 <div align="center">
@@ -240,127 +361,6 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 </td>
 </tr>
 </table>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> &nbsp;Open Source Contributions
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/google/adk-python">Google ADK Python</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/google%2Fadk--python-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-<p align="center">Designed the first Firestore session service: transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
-<p align="center">
-<a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/8_PRs-Sessions_·_Memory_·_Models_·_CLI-4285F4?style=flat-square"/>
-</a>
-</p>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/google/adk-python-community">ADK Community</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/google%2Fadk--python--community-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-<p align="center">Contributed FirestoreSessionService with 19 unit tests, in-memory mocks, and production-grade design: race-safe transactions, N+1 query elimination, async batch deletes.</p>
-<p align="center">
-<a href="https://github.com/google/adk-python-community/pull/104">
-<img src="https://img.shields.io/badge/PR_%23104-Firestore_Sessions-34A853?style=flat-square"/>
-</a>
-</p>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/ag--ui--protocol%2Fag--ui-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Bug fixes to the LangGraph adapter: trailing slash route fix, fork config passthrough, and message ID validation for regenerate streams.</p>
-<p align="center">
-<a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/3_PRs-LangGraph_Adapter_Fixes-FF6F00?style=flat-square"/>
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/pydantic%2Fpydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-</p>
-<p align="center">Built-in history processor for orphaned tool call/result repair preventing provider 400 errors, and fixed LLM-as-judge reason field pollution from reasoning models.</p>
-<p align="center">
-<a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/2_PRs-History_Repair_·_Eval_Fix-E92063?style=flat-square"/>
-</a>
-</p>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/ggml--org%2Fllama.cpp-00ADD8?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Added type and integer range validation to GGUFWriter.add_key_value: catches type mismatches and integer overflow/underflow before they silently corrupt model metadata.</p>
-<p align="center">
-<a href="https://github.com/ggml-org/llama.cpp/pull/21931">
-<img src="https://img.shields.io/badge/PR_%2321931-GGUF_Type_Validation-00ADD8?style=flat-square"/>
-</a>
-</p>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/BerriAI/litellm">LiteLLM</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/BerriAI%2Flitellm-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Fixed KeyError crash in Anthropic file-id discovery when messages carry non-OpenAI file content blocks (e.g. LangChain v1). Skip non-matching shapes instead of raising.</p>
-<p align="center">
-<a href="https://github.com/BerriAI/litellm/pull/26228">
-<img src="https://img.shields.io/badge/PR_%2326228-Multimodal_File_Block_Fix-7C3AED?style=flat-square"/>
-</a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="33%"></td>
-<td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/pypi/v/adk-database-memory?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=0EA5E9"/>
-</p>
-<p align="center">SQL-backed persistent memory service for the Google Agent Development Kit. Async SQLAlchemy, Postgres / MySQL / SQLite, drop-in for InMemoryMemoryService. Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a>.</p>
-<p align="center">
-<a href="https://pypi.org/project/adk-database-memory/">
-<img src="https://img.shields.io/badge/Standalone_Package-Listed_on_ADK_Docs-0EA5E9?style=flat-square"/>
-</a>
-</p>
-</td>
-<td width="33%"></td>
-</tr>
-</table>
-
 </div>
 
 <br/>
