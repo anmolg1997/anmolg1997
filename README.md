@@ -122,10 +122,10 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 <p align="center">
 <img src="https://img.shields.io/badge/pydantic%2Fpydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 </p>
-<p align="center">Built-in history processor for orphaned tool call/result repair preventing provider 400 errors, and fixed LLM-as-judge reason field pollution from reasoning models.</p>
+<p align="center">Merged fix for LLM-as-judge evals: constrain the reason field so reasoning models stay concise and retry-safe (<a href="https://github.com/pydantic/pydantic-ai/pull/5089">PR #5089</a>). Plus a built-in history processor repairing orphaned tool calls/results that cause provider 400 errors.</p>
 <p align="center">
 <a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/2_PRs-History_Repair_·_Eval_Fix-E92063?style=flat-square"/>
+<img src="https://img.shields.io/badge/2_PRs-Eval_Fix_Merged_·_History_Repair-E92063?style=flat-square"/>
 </a>
 </p>
 </td>
@@ -150,10 +150,10 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 <p align="center">
 <img src="https://img.shields.io/badge/BerriAI%2Flitellm-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<p align="center">Fixed KeyError crash in Anthropic file-id discovery when messages carry non-OpenAI file content blocks (e.g. LangChain v1). Skip non-matching shapes instead of raising.</p>
+<p align="center">Merged fix for a KeyError crash in Anthropic file-id discovery on non-OpenAI file content blocks (<a href="https://github.com/BerriAI/litellm/pull/26228">PR #26228</a>). Follow-up PR disposes recycled aiohttp client sessions deterministically, fixing unclosed-session leaks (<a href="https://github.com/BerriAI/litellm/pull/32003">PR #32003</a>, approved).</p>
 <p align="center">
-<a href="https://github.com/BerriAI/litellm/pull/26228">
-<img src="https://img.shields.io/badge/PR_%2326228-Multimodal_File_Block_Fix-7C3AED?style=flat-square"/>
+<a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997">
+<img src="https://img.shields.io/badge/2_PRs-File_Blocks_Merged_·_aiohttp_Sessions-7C3AED?style=flat-square"/>
 </a>
 </p>
 </td>
@@ -174,7 +174,20 @@ I build **production AI systems** that reason, plan, and execute autonomously, f
 </a>
 </p>
 </td>
-<td width="33%"></td>
+<td width="33%" valign="top">
+<h3 align="center">
+<a href="https://github.com/anmolg1997/prepostmortem-skills">(pre·post)mortem</a>
+</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/anmolg1997%2Fprepostmortem--skills-10B981?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+<p align="center">Pre-mortems and postmortems for AI coding agents: 261 tagged real-world incidents and a 12-class agentic-AI failure model, shipped as agent skills for risk review before and after changes.</p>
+<p align="center">
+<a href="https://github.com/anmolg1997/prepostmortem-skills">
+<img src="https://img.shields.io/badge/Agent_Skills-Failure_Taxonomy_·_261_Incidents-10B981?style=flat-square"/>
+</a>
+</p>
+</td>
 </tr>
 </table>
 
