@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/anmolg1997"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;7%2B+Years+in+Production+AI" alt="Multi-Agent AI Architect · Enterprise RAG Specialist · LLM Fine-Tuning &amp; Serving" /></a>
+  <a href="https://github.com/anmolg1997"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;Agent+Skills+%26+Harness+Engineering;7%2B+Years+in+Production+AI" alt="Multi-Agent AI Architect · Enterprise RAG Specialist · LLM Fine-Tuning &amp; Serving" /></a>
 </p>
 
 <p align="center">
@@ -39,6 +39,7 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 | Focus area | Working with |
 |:-----------|:-------------|
 | **Multi-agent AI** | `Google ADK` `A2A Protocol` `MCP` `Agent Orchestration` |
+| **Agent skills & harnesses** | `SKILL.md` `Claude Code` `Operator Skills` `Evidence Gates` |
 | **Knowledge graphs & RAG** | `Neo4j GraphRAG` `Hybrid Search` `Reranking` `Guardrails` |
 | **LLM fine-tuning & serving** | `LoRA / QLoRA` `Unsloth` `vLLM` `Multi-Adapter Inference` |
 | **LLM observability** | `Langfuse` `MLflow` `OpenSearch` `Domain Evaluation` |
@@ -51,6 +52,18 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 | [rhytm](https://github.com/anmolg1997/rhytm) | Multi-agent framework for proprietary data analysis with business intelligence |
 | [fincept-operator-skill](https://github.com/anmolg1997/fincept-operator-skill) | Claude Code agent skill that operates and monitors a trading terminal, with hard safety rails (paper-only, human-approved live actions) |
 | [SLM-From-Scratch](https://github.com/anmolg1997/SLM-From-Scratch) | Ongoing: alignment utilities and GGUF / ONNX export paths for small language models |
+
+### Tracking the frontier
+
+Where agentic AI is heading in 2026, and where I'm already hands-on:
+
+| Frontier | My work there |
+|:---------|:--------------|
+| **Agent skills** — portable `SKILL.md` capabilities for coding agents | [fincept-operator-skill](https://github.com/anmolg1997/fincept-operator-skill): GUI operation of a live trading terminal with human-approval gates · [prepostmortem-skills](https://github.com/anmolg1997/prepostmortem-skills): failure analysis shipped as skills |
+| **Harness engineering** — the control plane around coding agents | [harness-engineer-skill](https://github.com/anmolg1997/harness-engineer-skill): audits any repo's harness, runs the Fresh Session Test, enforces an evidence-before-done gate |
+| **Agent protocols** — `MCP` `A2A` `AG-UI` `AGENTS.md` | ADK 2.0 middleware for [ag-ui](https://github.com/ag-ui-protocol/ag-ui) · A2A orchestration in [Multi-Agent-AI-Framework](https://github.com/anmolg1997/Multi-Agent-AI-Framework) |
+| **Context engineering** — sessions, memory and state over prompts | [adk-database-memory](https://github.com/anmolg1997/adk-database-memory): durable agent memory · Firestore session service patterns adopted upstream in Google ADK |
+| **Agent reliability** — evals, failure taxonomies, observability | 261-incident, 12-class failure model in [prepostmortem-skills](https://github.com/anmolg1997/prepostmortem-skills) · retry-safe LLM-as-judge eval merged into [Pydantic AI](https://github.com/pydantic/pydantic-ai/pull/5089) |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
