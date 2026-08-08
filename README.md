@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=fff">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
-  <img width="100%" alt="Anmol Jaiswal — Applied AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <img width="100%" alt="Anmol Jaiswal, Applied AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
 </picture>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 ## About
 
-I build **production AI systems** that reason, plan, and execute autonomously — from multi-agent orchestration to enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
+I build **production AI systems** that reason, plan, and execute autonomously: multi-agent orchestration, agent skills and harnesses for coding agents, enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
 
 | Focus area | Working with |
 |:-----------|:-------------|
@@ -59,11 +59,11 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
 
 | Frontier | My work there |
 |:---------|:--------------|
-| **Agent skills** — portable `SKILL.md` capabilities for coding agents | <ul><li><a href="https://github.com/anmolg1997/fincept-operator-skill">fincept-operator-skill</a>: GUI operation of a live trading terminal with human-approval gates</li><li><a href="https://github.com/anmolg1997/prepostmortem-skills">prepostmortem-skills</a>: failure analysis shipped as skills</li></ul> |
-| **Harness engineering** — the control plane around coding agents | <ul><li><a href="https://github.com/anmolg1997/harness-engineer-skill">harness-engineer-skill</a>: audits any repo's harness, any convention</li><li>Runs the Fresh Session Test, enforces an evidence-before-done gate</li></ul> |
-| **Agent protocols** — `MCP` `A2A` `AG-UI` `AGENTS.md` | <ul><li>ADK 2.0 middleware for <a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui</a></li><li>A2A orchestration in <a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">Multi-Agent-AI-Framework</a></li></ul> |
-| **Context engineering** — sessions, memory and state over prompts | <ul><li><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>: durable agent memory</li><li>Firestore session service patterns adopted upstream in Google ADK</li></ul> |
-| **Agent reliability** — evals, failure taxonomies, observability | <ul><li>261-incident, 12-class failure model in <a href="https://github.com/anmolg1997/prepostmortem-skills">prepostmortem-skills</a></li><li>Retry-safe LLM-as-judge eval merged into <a href="https://github.com/pydantic/pydantic-ai/pull/5089">Pydantic AI</a></li></ul> |
+| **Agent skills:** portable `SKILL.md` capabilities for coding agents | <ul><li><a href="https://github.com/anmolg1997/fincept-operator-skill">fincept-operator-skill</a>: GUI operation of a live trading terminal with human-approval gates</li><li><a href="https://github.com/anmolg1997/prepostmortem-skills">prepostmortem-skills</a>: failure analysis shipped as skills</li></ul> |
+| **Harness engineering:** the control plane around coding agents | <ul><li><a href="https://github.com/anmolg1997/harness-engineer-skill">harness-engineer-skill</a>: audits any repo's harness, any convention</li><li>Runs the Fresh Session Test, enforces an evidence-before-done gate</li></ul> |
+| **Agent protocols:** `MCP` `A2A` `AG-UI` `AGENTS.md` | <ul><li>ADK 2.0 middleware for <a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui</a></li><li>A2A orchestration in <a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">Multi-Agent-AI-Framework</a></li></ul> |
+| **Context engineering:** sessions, memory and state over prompts | <ul><li><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>: durable agent memory</li><li>Firestore session service patterns adopted upstream in Google ADK</li></ul> |
+| **Agent reliability:** evals, failure taxonomies, observability | <ul><li>261-incident, 12-class failure model in <a href="https://github.com/anmolg1997/prepostmortem-skills">prepostmortem-skills</a></li><li>Retry-safe LLM-as-judge eval merged into <a href="https://github.com/pydantic/pydantic-ai/pull/5089">Pydantic AI</a></li></ul> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
