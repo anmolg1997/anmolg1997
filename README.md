@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=fff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
-  <img width="100%" alt="Anmol Jaiswal — Applied AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=fff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <img width="100%" alt="Anmol Jaiswal — Applied AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2%2C2%2C5%2C9%2C15&text=Anmol%20Jaiswal&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
 </picture>
 
 <p align="center">
