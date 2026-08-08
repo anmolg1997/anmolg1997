@@ -62,75 +62,100 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/google/adk-python">Google ADK Python</a></h3>
+<td width="28%" valign="top">
+<b><a href="https://github.com/google/adk-python">Google ADK Python</a></b><br/><br/>
+<a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/8_PRs-sessions_·_memory_·_models_·_CLI-7C3AED?style=flat-square" alt="Google ADK Python PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>First Firestore session service: transactional state, subcollection events, batch deletes</li>
 <li>Patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a>, <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited</a> by a Google engineer</li>
 </ul>
-<p><a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/8_PRs-sessions_·_memory_·_models_·_CLI-7C3AED?style=flat-square" alt="8 PRs"/></a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/google/adk-python-community">ADK Community</a></h3>
+</tr>
+<tr>
+<td width="28%" valign="top">
+<b><a href="https://github.com/google/adk-python-community">ADK Community</a></b><br/><br/>
+<a href="https://github.com/google/adk-python-community/pull/104"><img src="https://img.shields.io/badge/PR_%23104-Firestore_sessions-7C3AED?style=flat-square" alt="ADK Community PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li><code>FirestoreSessionService</code> with 19 unit tests and in-memory mocks</li>
 <li>Race-safe transactions, N+1 query elimination, async batch deletes</li>
 </ul>
-<p><a href="https://github.com/google/adk-python-community/pull/104"><img src="https://img.shields.io/badge/PR_%23104-Firestore_sessions-7C3AED?style=flat-square" alt="PR 104"/></a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a></h3>
+</tr>
+<tr>
+<td width="28%" valign="top">
+<b><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a></b><br/><br/>
+<a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/4_PRs-ADK_2.0_+_LangGraph-7C3AED?style=flat-square" alt="ag-ui Protocol PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>ADK middleware upgraded to <code>google-adk 2.0</code>: +975/−48 LOC, closed <a href="https://github.com/ag-ui-protocol/ag-ui/pull/1746">2 upstream issues</a></li>
 <li>LangGraph adapter fixes: routes, fork config, stream message IDs</li>
 </ul>
-<p><a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/4_PRs-ADK_2.0_+_LangGraph-7C3AED?style=flat-square" alt="4 PRs"/></a></p>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a></h3>
+<td width="28%" valign="top">
+<b><a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a></b><br/><br/>
+<a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-eval_fix_·_history_repair-7C3AED?style=flat-square" alt="Pydantic AI PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>Merged: retry-safe LLM-as-judge evals via constrained reason field (<a href="https://github.com/pydantic/pydantic-ai/pull/5089">#5089</a>)</li>
 <li>History processor repairing orphaned tool calls behind provider 400s</li>
 </ul>
-<p><a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-eval_fix_·_history_repair-7C3AED?style=flat-square" alt="2 PRs"/></a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></h3>
+</tr>
+<tr>
+<td width="28%" valign="top">
+<b><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></b><br/><br/>
+<a href="https://github.com/ggml-org/llama.cpp/pull/21931"><img src="https://img.shields.io/badge/PR_%2321931-GGUF_type_validation-7C3AED?style=flat-square" alt="llama.cpp PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>Type + integer-range validation in <code>GGUFWriter.add_key_value</code></li>
 <li>Catches overflow before it silently corrupts model metadata</li>
 </ul>
-<p><a href="https://github.com/ggml-org/llama.cpp/pull/21931"><img src="https://img.shields.io/badge/PR_%2321931-GGUF_type_validation-7C3AED?style=flat-square" alt="PR 21931"/></a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/BerriAI/litellm">LiteLLM</a></h3>
+</tr>
+<tr>
+<td width="28%" valign="top">
+<b><a href="https://github.com/BerriAI/litellm">LiteLLM</a></b><br/><br/>
+<a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-file_blocks_·_aiohttp_sessions-7C3AED?style=flat-square" alt="LiteLLM PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>Merged: KeyError crash fix in Anthropic file-id discovery (<a href="https://github.com/BerriAI/litellm/pull/26228">#26228</a>)</li>
 <li>Deterministic aiohttp session disposal, fixing leaks (<a href="https://github.com/BerriAI/litellm/pull/32003">#32003</a>)</li>
 </ul>
-<p><a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-file_blocks_·_aiohttp_sessions-7C3AED?style=flat-square" alt="2 PRs"/></a></p>
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a></h3>
+<td width="28%" valign="top">
+<b><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a></b><br/><br/>
+<a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/pypi/v/adk-database-memory?style=flat-square&label=PyPI&color=7C3AED" alt="adk-database-memory PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>SQL-backed ADK memory: Postgres / MySQL / SQLite, drop-in for <code>InMemoryMemoryService</code></li>
 <li>Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a></li>
 </ul>
-<p><a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/pypi/v/adk-database-memory?style=flat-square&label=PyPI&color=7C3AED" alt="PyPI version"/></a></p>
 </td>
-<td width="33%" valign="top">
-<h3><a href="https://github.com/anmolg1997/prepostmortem-skills">(pre·post)mortem</a></h3>
+</tr>
+<tr>
+<td width="28%" valign="top">
+<b><a href="https://github.com/anmolg1997/prepostmortem-skills">(pre·post)mortem</a></b><br/><br/>
+<a href="https://github.com/anmolg1997/prepostmortem-skills"><img src="https://img.shields.io/badge/agent_skills-261_incidents_·_12_failure_classes-7C3AED?style=flat-square" alt="(pre·post)mortem PRs"/></a>
+</td>
+<td valign="top">
 <ul>
 <li>261 tagged real-world incidents, 12-class agentic-AI failure model</li>
 <li>Shipped as agent skills for pre- and post-change risk review</li>
 </ul>
-<p><a href="https://github.com/anmolg1997/prepostmortem-skills"><img src="https://img.shields.io/badge/agent_skills-261_incidents_·_12_failure_classes-7C3AED?style=flat-square" alt="prepostmortem"/></a></p>
 </td>
-<td width="33%" valign="top"></td>
 </tr>
 </table>
 
