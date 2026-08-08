@@ -9,7 +9,11 @@
   &nbsp;
   <a href="mailto:the.anmol.jaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/badge/PyPI-adk--database--memory-7C3AED?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/></a>
+  <a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/pypi/v/adk-database-memory?style=flat-square&logo=pypi&logoColor=white&label=adk--database--memory&color=7C3AED" alt="PyPI version"/></a>
+  &nbsp;
+  <a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/pypi/dm/adk-database-memory?style=flat-square&logo=pypi&logoColor=white&label=downloads&color=7C3AED" alt="PyPI downloads"/></a>
+  &nbsp;
+  <a href="https://github.com/anmolg1997?tab=followers"><img src="https://img.shields.io/github/followers/anmolg1997?style=flat-square&logo=github&label=followers&color=7C3AED" alt="GitHub followers"/></a>
 </p>
 
 <p align="center">
@@ -18,7 +22,11 @@
   <sub>7+ years in applied AI &nbsp;路&nbsp; author of a package in the official ADK integrations catalog</sub>
 </p>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 ## About
 
@@ -32,7 +40,11 @@ I build **production AI systems** that reason, plan, and execute autonomously 鈥
 | **LLM observability** | `Langfuse` `MLflow` `OpenSearch` `Domain Evaluation` |
 | **Model building** | `Transformers from scratch` `DeepSpeed` `SFT / DPO / RLHF` |
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 ## Open source
 
@@ -86,7 +98,11 @@ I build **production AI systems** that reason, plan, and execute autonomously 鈥
 </tr>
 </table>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 ## Featured work
 
@@ -141,7 +157,11 @@ I build **production AI systems** that reason, plan, and execute autonomously 鈥
 </tr>
 </table>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 ## Tech stack
 
@@ -180,9 +200,19 @@ Infrastructure     Docker 路 Kubernetes 路 Terraform 路 GitHub Actions
 
 </details>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 ## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&color=24292f&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&color=24292f&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed" width="100%"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake-dark.svg">
@@ -203,9 +233,11 @@ Infrastructure     Docker 路 Kubernetes 路 Terraform 路 GitHub Actions
   </picture>
 </p>
 
-<br/>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
 <p align="center">
   <b>Building something complex? Let's talk.</b>
