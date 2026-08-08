@@ -64,46 +64,70 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <tr>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/google/adk-python">Google ADK Python</a></h3>
-<p>Designed the first Firestore session service: transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a>, with the work <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited</a> by a Google engineer.</p>
+<ul>
+<li>First Firestore session service: transactional state, subcollection events, batch deletes</li>
+<li>Patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a>, <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited</a> by a Google engineer</li>
+</ul>
 <p><a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/8_PRs-sessions_·_memory_·_models_·_CLI-7C3AED?style=flat-square" alt="8 PRs"/></a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/google/adk-python-community">ADK Community</a></h3>
-<p>Contributed <code>FirestoreSessionService</code> with 19 unit tests, in-memory mocks, and production-grade design: race-safe transactions, N+1 query elimination, async batch deletes.</p>
+<ul>
+<li><code>FirestoreSessionService</code> with 19 unit tests and in-memory mocks</li>
+<li>Race-safe transactions, N+1 query elimination, async batch deletes</li>
+</ul>
 <p><a href="https://github.com/google/adk-python-community/pull/104"><img src="https://img.shields.io/badge/PR_%23104-Firestore_sessions-7C3AED?style=flat-square" alt="PR 104"/></a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a></h3>
-<p>Major ADK middleware upgrade for <code>google-adk 2.0</code> (+975/−48 LOC, closed <a href="https://github.com/ag-ui-protocol/ag-ui/pull/1746">2 upstream issues</a>), plus LangGraph adapter fixes: trailing-slash route, fork config passthrough, regenerated stream message IDs.</p>
+<ul>
+<li>ADK middleware upgraded to <code>google-adk 2.0</code>: +975/−48 LOC, closed <a href="https://github.com/ag-ui-protocol/ag-ui/pull/1746">2 upstream issues</a></li>
+<li>LangGraph adapter fixes: routes, fork config, stream message IDs</li>
+</ul>
 <p><a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/4_PRs-ADK_2.0_+_LangGraph-7C3AED?style=flat-square" alt="4 PRs"/></a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a></h3>
-<p>Merged fix for LLM-as-judge evals: constrain the reason field so reasoning models stay concise and retry-safe (<a href="https://github.com/pydantic/pydantic-ai/pull/5089">#5089</a>). Plus a built-in history processor repairing orphaned tool calls that cause provider 400 errors.</p>
+<ul>
+<li>Merged: retry-safe LLM-as-judge evals via constrained reason field (<a href="https://github.com/pydantic/pydantic-ai/pull/5089">#5089</a>)</li>
+<li>History processor repairing orphaned tool calls behind provider 400s</li>
+</ul>
 <p><a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-eval_fix_·_history_repair-7C3AED?style=flat-square" alt="2 PRs"/></a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></h3>
-<p>Added type and integer-range validation to <code>GGUFWriter.add_key_value</code>: catches type mismatches and integer overflow before they silently corrupt model metadata.</p>
+<ul>
+<li>Type + integer-range validation in <code>GGUFWriter.add_key_value</code></li>
+<li>Catches overflow before it silently corrupts model metadata</li>
+</ul>
 <p><a href="https://github.com/ggml-org/llama.cpp/pull/21931"><img src="https://img.shields.io/badge/PR_%2321931-GGUF_type_validation-7C3AED?style=flat-square" alt="PR 21931"/></a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/BerriAI/litellm">LiteLLM</a></h3>
-<p>Merged fix for a KeyError crash in Anthropic file-id discovery on non-OpenAI file content blocks (<a href="https://github.com/BerriAI/litellm/pull/26228">#26228</a>). Follow-up disposes recycled aiohttp sessions deterministically, fixing unclosed-session leaks (<a href="https://github.com/BerriAI/litellm/pull/32003">#32003</a>).</p>
+<ul>
+<li>Merged: KeyError crash fix in Anthropic file-id discovery (<a href="https://github.com/BerriAI/litellm/pull/26228">#26228</a>)</li>
+<li>Deterministic aiohttp session disposal, fixing leaks (<a href="https://github.com/BerriAI/litellm/pull/32003">#32003</a>)</li>
+</ul>
 <p><a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-file_blocks_·_aiohttp_sessions-7C3AED?style=flat-square" alt="2 PRs"/></a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a></h3>
-<p>SQL-backed persistent memory service for the Google ADK. Async SQLAlchemy, Postgres / MySQL / SQLite, drop-in for <code>InMemoryMemoryService</code>. Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a>.</p>
+<ul>
+<li>SQL-backed ADK memory: Postgres / MySQL / SQLite, drop-in for <code>InMemoryMemoryService</code></li>
+<li>Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a></li>
+</ul>
 <p><a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/pypi/v/adk-database-memory?style=flat-square&label=PyPI&color=7C3AED" alt="PyPI version"/></a></p>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/anmolg1997/prepostmortem-skills">(pre·post)mortem</a></h3>
-<p>Pre-mortems and postmortems for AI coding agents: 261 tagged real-world incidents and a 12-class agentic-AI failure model, shipped as agent skills for risk review before and after changes.</p>
+<ul>
+<li>261 tagged real-world incidents, 12-class agentic-AI failure model</li>
+<li>Shipped as agent skills for pre- and post-change risk review</li>
+</ul>
 <p><a href="https://github.com/anmolg1997/prepostmortem-skills"><img src="https://img.shields.io/badge/agent_skills-261_incidents_·_12_failure_classes-7C3AED?style=flat-square" alt="prepostmortem"/></a></p>
 </td>
 <td width="33%" valign="top"></td>
@@ -122,48 +146,72 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/SLM-From-Scratch">SLM From Scratch</a></h3>
-<p>Build language models from zero: BPE tokenizer, composable Transformer (RoPE, GQA, SwiGLU), DeepSpeed training, SFT / DPO / RLHF alignment, GGUF / ONNX export.</p>
+<ul>
+<li>BPE tokenizer + composable Transformer: RoPE, GQA, SwiGLU</li>
+<li>DeepSpeed training, SFT / DPO / RLHF alignment, GGUF / ONNX export</li>
+</ul>
 <p><code>PyTorch</code> <code>DeepSpeed</code> <code>RLHF</code></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/Enterprise-RAG-System">Enterprise RAG System</a></h3>
-<p>Hybrid search (dense + BM25), cross-encoder reranking, guardrails, semantic caching, RAGAS evaluation, Langfuse observability.</p>
+<ul>
+<li>Hybrid search (dense + BM25) with cross-encoder reranking</li>
+<li>Guardrails, semantic caching, RAGAS evals, Langfuse observability</li>
+</ul>
 <p><code>LlamaIndex</code> <code>OpenSearch</code> <code>Langfuse</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">Multi-Agent AI Framework</a></h3>
-<p>Production multi-agent orchestration with Google ADK: coordinator, planner, coder and reviewer agents, YAML-driven personas, A2A protocol.</p>
+<ul>
+<li>Coordinator, planner, coder and reviewer agents on Google ADK</li>
+<li>YAML-driven personas, A2A protocol</li>
+</ul>
 <p><code>Google ADK</code> <code>A2A</code> <code>FastAPI</code></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/NL2SQL-Engine">NL2SQL Engine</a></h3>
-<p>Natural language to SQL with live schema introspection, self-correction, few-shot learning, and multi-dialect support (Postgres, Snowflake, SQLite).</p>
+<ul>
+<li>Live schema introspection, self-correction, few-shot learning</li>
+<li>Multi-dialect: Postgres, Snowflake, SQLite</li>
+</ul>
 <p><code>SQLGlot</code> <code>PostgreSQL</code> <code>Snowflake</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">LLM Fine-tuning Toolkit</a></h3>
-<p>Production LoRA / QLoRA fine-tuning: pluggable backends (Unsloth, TRL, Axolotl), YAML recipes, MLflow tracking, vLLM serving.</p>
+<ul>
+<li>Pluggable backends (Unsloth, TRL, Axolotl) driven by YAML recipes</li>
+<li>MLflow tracking, vLLM serving</li>
+</ul>
 <p><code>Unsloth</code> <code>vLLM</code> <code>MLflow</code></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/Multi-LoRA-Serve">Multi-LoRA Serve</a></h3>
-<p>One base model, many LoRA adapters per request: OpenAI-compatible inference gateway with tenant routing and Prometheus metrics.</p>
+<ul>
+<li>One base model, many LoRA adapters per request</li>
+<li>OpenAI-compatible gateway, tenant routing, Prometheus metrics</li>
+</ul>
 <p><code>vLLM</code> <code>LoRA</code> <code>Prometheus</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/KG_RAG">KG-RAG</a></h3>
-<p>Knowledge graph + RAG with Neo4j for intelligent document QA: entity extraction, graph traversal retrieval, and hybrid grounding.</p>
+<ul>
+<li>Neo4j knowledge graph + RAG for document QA</li>
+<li>Entity extraction, graph-traversal retrieval, hybrid grounding</li>
+</ul>
 <p><code>Neo4j</code> <code>FastAPI</code> <code>React</code></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/anmolg1997/Domain-Adaptive-LLM">Domain-Adaptive LLM</a></h3>
-<p>Specialize LLMs for medical, legal, finance and code: curriculum training, domain benchmarks (MedQA, LegalBench), safety guardrails.</p>
+<ul>
+<li>Medical, legal, finance and code specialization via curriculum training</li>
+<li>Domain benchmarks (MedQA, LegalBench), safety guardrails</li>
+</ul>
 <p><code>MedQA</code> <code>LegalBench</code> <code>LoRA</code></p>
 </td>
 </tr>
