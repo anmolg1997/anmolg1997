@@ -1,496 +1,216 @@
-<!-- Header with Bubble Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Anmol Jaiswal — Applied AI Engineer" src="assets/header-light.svg" width="100%">
+</picture>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmol-8756772501/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:the.anmol.jaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/badge/PyPI-adk--database--memory-7C3AED?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/></a>
+</p>
 
-<!-- Animated Role Text -->
-<a href="https://github.com/anmolg1997">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;7%2B+Years+in+Production+AI" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- Social Badges -->
-<a href="https://www.linkedin.com/in/anmol-8756772501/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:the.anmol.jaiswal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=anmolg1997&style=for-the-badge&color=A855F7&label=Visitors" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🚀_Since_July_2019-7%2B_Years_in_AI%2FML-A855F7?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📦_9_Production_AI_Systems-Open_Source-8B5CF6?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  Contributor to <a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">Google ADK</a> · <a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997">Pydantic AI</a> · <a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997">LiteLLM</a> · <a href="https://github.com/ggml-org/llama.cpp/pull/21931">llama.cpp</a> · <a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997">ag-ui</a>
+  <br/>
+  <sub>7+ years in applied AI &nbsp;·&nbsp; author of a package in the official ADK integrations catalog</sub>
+</p>
 
 <br/>
 
----
+## About
 
-<br/>
+I build **production AI systems** that reason, plan, and execute autonomously — from multi-agent orchestration to enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp;About
-
-<table>
-<tr>
-<td>
-
-I build **production AI systems** that reason, plan, and execute autonomously, from multi-agent orchestration to enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
-
-<br/>
-
-**🔭 Currently Building:**
-
-| Focus Area | Technologies |
+| Focus area | Working with |
 |:-----------|:-------------|
-| 🤖 **Multi-Agent AI** | Google ADK, A2A Protocol, MCP Tools, Agent Orchestration |
-| 🔗 **Knowledge Graphs & RAG** | Neo4j GraphRAG, Hybrid Search, Reranking, Guardrails |
-| ⚡ **LLM Fine-Tuning & Serving** | LoRA/QLoRA, Unsloth, vLLM, Multi-Adapter Inference |
-| 👁️ **LLM Observability** | Langfuse, MLflow, OpenSearch, Domain Evaluation |
-| 🧠 **Model Building** | Transformers from Scratch, DeepSpeed, Alignment (SFT/DPO/RLHF) |
-
-</td>
-</tr>
-</table>
+| **Multi-agent AI** | `Google ADK` `A2A Protocol` `MCP` `Agent Orchestration` |
+| **Knowledge graphs & RAG** | `Neo4j GraphRAG` `Hybrid Search` `Reranking` `Guardrails` |
+| **LLM fine-tuning & serving** | `LoRA / QLoRA` `Unsloth` `vLLM` `Multi-Adapter Inference` |
+| **LLM observability** | `Langfuse` `MLflow` `OpenSearch` `Domain Evaluation` |
+| **Model building** | `Transformers from scratch` `DeepSpeed` `SFT / DPO / RLHF` |
 
 <br/>
 
----
-
-<br/>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/> &nbsp;Open Source Contributions
-
-<div align="center">
+## Open source
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/google/adk-python">Google ADK Python</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/google%2Fadk--python-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-<p align="center">Designed the first Firestore session service: transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a> by a Google engineer who <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited the work</a>.</p>
-<p align="center">
-<a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/8_PRs-Sessions_·_Memory_·_Models_·_CLI-4285F4?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/google/adk-python">Google ADK Python</a></h3>
+<p>Designed the first Firestore session service: transactional state, subcollection events, batch deletes. Design patterns adopted in the <a href="https://github.com/google/adk-python/pull/5088">official implementation</a>, with the work <a href="https://github.com/google/adk-python/pull/5088#issue-3117591856">credited</a> by a Google engineer.</p>
+<p><a href="https://github.com/google/adk-python/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/8_PRs-sessions_·_memory_·_models_·_CLI-7C3AED?style=flat-square" alt="8 PRs"/></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/google/adk-python-community">ADK Community</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/google%2Fadk--python--community-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-<p align="center">Contributed FirestoreSessionService with 19 unit tests, in-memory mocks, and production-grade design: race-safe transactions, N+1 query elimination, async batch deletes.</p>
-<p align="center">
-<a href="https://github.com/google/adk-python-community/pull/104">
-<img src="https://img.shields.io/badge/PR_%23104-Firestore_Sessions-34A853?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/google/adk-python-community">ADK Community</a></h3>
+<p>Contributed <code>FirestoreSessionService</code> with 19 unit tests, in-memory mocks, and production-grade design: race-safe transactions, N+1 query elimination, async batch deletes.</p>
+<p><a href="https://github.com/google/adk-python-community/pull/104"><img src="https://img.shields.io/badge/PR_%23104-Firestore_sessions-7C3AED?style=flat-square" alt="PR 104"/></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/ag--ui--protocol%2Fag--ui-FF6F00?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Major ADK middleware upgrade for <code>google-adk 2.0</code> (+975/-48 LOC, closed <a href="https://github.com/ag-ui-protocol/ag-ui/pull/1746">2 upstream issues</a>), plus LangGraph adapter fixes: trailing slash route, fork config passthrough, regenerate stream message IDs.</p>
-<p align="center">
-<a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/4_PRs-ADK_2.0_%2B_LangGraph_Fixes-FF6F00?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui Protocol</a></h3>
+<p>Major ADK middleware upgrade for <code>google-adk 2.0</code> (+975/−48 LOC, closed <a href="https://github.com/ag-ui-protocol/ag-ui/pull/1746">2 upstream issues</a>), plus LangGraph adapter fixes: trailing-slash route, fork config passthrough, regenerated stream message IDs.</p>
+<p><a href="https://github.com/ag-ui-protocol/ag-ui/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/4_PRs-ADK_2.0_+_LangGraph-7C3AED?style=flat-square" alt="4 PRs"/></a></p>
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/pydantic%2Fpydantic--ai-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-</p>
-<p align="center">Merged fix for LLM-as-judge evals: constrain the reason field so reasoning models stay concise and retry-safe (<a href="https://github.com/pydantic/pydantic-ai/pull/5089">PR #5089</a>). Plus a built-in history processor repairing orphaned tool calls/results that cause provider 400 errors.</p>
-<p align="center">
-<a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/2_PRs-Eval_Fix_Merged_·_History_Repair-E92063?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/pydantic/pydantic-ai">Pydantic AI</a></h3>
+<p>Merged fix for LLM-as-judge evals: constrain the reason field so reasoning models stay concise and retry-safe (<a href="https://github.com/pydantic/pydantic-ai/pull/5089">#5089</a>). Plus a built-in history processor repairing orphaned tool calls that cause provider 400 errors.</p>
+<p><a href="https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-eval_fix_·_history_repair-7C3AED?style=flat-square" alt="2 PRs"/></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/ggml--org%2Fllama.cpp-00ADD8?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Added type and integer range validation to GGUFWriter.add_key_value: catches type mismatches and integer overflow/underflow before they silently corrupt model metadata.</p>
-<p align="center">
-<a href="https://github.com/ggml-org/llama.cpp/pull/21931">
-<img src="https://img.shields.io/badge/PR_%2321931-GGUF_Type_Validation-00ADD8?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/ggml-org/llama.cpp">llama.cpp</a></h3>
+<p>Added type and integer-range validation to <code>GGUFWriter.add_key_value</code>: catches type mismatches and integer overflow before they silently corrupt model metadata.</p>
+<p><a href="https://github.com/ggml-org/llama.cpp/pull/21931"><img src="https://img.shields.io/badge/PR_%2321931-GGUF_type_validation-7C3AED?style=flat-square" alt="PR 21931"/></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/BerriAI/litellm">LiteLLM</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/BerriAI%2Flitellm-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Merged fix for a KeyError crash in Anthropic file-id discovery on non-OpenAI file content blocks (<a href="https://github.com/BerriAI/litellm/pull/26228">PR #26228</a>). Follow-up PR disposes recycled aiohttp client sessions deterministically, fixing unclosed-session leaks (<a href="https://github.com/BerriAI/litellm/pull/32003">PR #32003</a>, approved).</p>
-<p align="center">
-<a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997">
-<img src="https://img.shields.io/badge/2_PRs-File_Blocks_Merged_·_aiohttp_Sessions-7C3AED?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/BerriAI/litellm">LiteLLM</a></h3>
+<p>Merged fix for a KeyError crash in Anthropic file-id discovery on non-OpenAI file content blocks (<a href="https://github.com/BerriAI/litellm/pull/26228">#26228</a>). Follow-up disposes recycled aiohttp sessions deterministically, fixing unclosed-session leaks (<a href="https://github.com/BerriAI/litellm/pull/32003">#32003</a>).</p>
+<p><a href="https://github.com/BerriAI/litellm/pulls?q=is%3Apr+author%3Aanmolg1997"><img src="https://img.shields.io/badge/2_PRs-file_blocks_·_aiohttp_sessions-7C3AED?style=flat-square" alt="2 PRs"/></a></p>
 </td>
 </tr>
 <tr>
-<td width="33%"></td>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/pypi/v/adk-database-memory?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI&color=0EA5E9"/>
-</p>
-<p align="center">SQL-backed persistent memory service for the Google Agent Development Kit. Async SQLAlchemy, Postgres / MySQL / SQLite, drop-in for InMemoryMemoryService. Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a>.</p>
-<p align="center">
-<a href="https://pypi.org/project/adk-database-memory/">
-<img src="https://img.shields.io/badge/Standalone_Package-Listed_on_ADK_Docs-0EA5E9?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a></h3>
+<p>SQL-backed persistent memory service for the Google ADK. Async SQLAlchemy, Postgres / MySQL / SQLite, drop-in for <code>InMemoryMemoryService</code>. Listed in the <a href="https://google.github.io/adk-docs/integrations/database-memory/">official ADK integrations catalog</a>.</p>
+<p><a href="https://pypi.org/project/adk-database-memory/"><img src="https://img.shields.io/pypi/v/adk-database-memory?style=flat-square&label=PyPI&color=7C3AED" alt="PyPI version"/></a></p>
 </td>
 <td width="33%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/prepostmortem-skills">(pre·post)mortem</a>
-</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/anmolg1997%2Fprepostmortem--skills-10B981?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-<p align="center">Pre-mortems and postmortems for AI coding agents: 261 tagged real-world incidents and a 12-class agentic-AI failure model, shipped as agent skills for risk review before and after changes.</p>
-<p align="center">
-<a href="https://github.com/anmolg1997/prepostmortem-skills">
-<img src="https://img.shields.io/badge/Agent_Skills-Failure_Taxonomy_·_261_Incidents-10B981?style=flat-square"/>
-</a>
-</p>
+<h3><a href="https://github.com/anmolg1997/prepostmortem-skills">(pre·post)mortem</a></h3>
+<p>Pre-mortems and postmortems for AI coding agents: 261 tagged real-world incidents and a 12-class agentic-AI failure model, shipped as agent skills for risk review before and after changes.</p>
+<p><a href="https://github.com/anmolg1997/prepostmortem-skills"><img src="https://img.shields.io/badge/agent_skills-261_incidents_·_12_failure_classes-7C3AED?style=flat-square" alt="prepostmortem"/></a></p>
 </td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
----
+## Featured work
 
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> &nbsp;Featured Work
-
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">🤖 Multi-Agent Framework</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">
-<img src="https://img.shields.io/badge/★_View_Project-A855F7?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Production multi-agent orchestration with Google ADK: coordinator, planner, coder & reviewer agents</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Google_ADK-A855F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/A2A-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-7C3AED?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/SLM-From-Scratch">SLM From Scratch</a></h3>
+<p>Build language models from zero: BPE tokenizer, composable Transformer (RoPE, GQA, SwiGLU), DeepSpeed training, SFT / DPO / RLHF alignment, GGUF / ONNX export.</p>
+<p><code>PyTorch</code> <code>DeepSpeed</code> <code>RLHF</code></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/KG_RAG">🔗 KG_RAG</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/KG_RAG">
-<img src="https://img.shields.io/badge/★_View_Project-06D6A0?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Knowledge Graph + RAG with Neo4j for intelligent document QA</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Neo4j-06D6A0?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/Enterprise-RAG-System">Enterprise RAG System</a></h3>
+<p>Hybrid search (dense + BM25), cross-encoder reranking, guardrails, semantic caching, RAGAS evaluation, Langfuse observability.</p>
+<p><code>LlamaIndex</code> <code>OpenSearch</code> <code>Langfuse</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/Enterprise-RAG-System">🏢 Enterprise RAG</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/Enterprise-RAG-System">
-<img src="https://img.shields.io/badge/★_View_Project-F59E0B?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Hybrid search RAG with guardrails, reranking & Langfuse observability</p>
-<p align="center">
-<img src="https://img.shields.io/badge/LlamaIndex-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Langfuse-EAB308?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenSearch-CA8A04?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">Multi-Agent AI Framework</a></h3>
+<p>Production multi-agent orchestration with Google ADK: coordinator, planner, coder and reviewer agents, YAML-driven personas, A2A protocol.</p>
+<p><code>Google ADK</code> <code>A2A</code> <code>FastAPI</code></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/NL2SQL-Engine">🔍 NL2SQL Engine</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/NL2SQL-Engine">
-<img src="https://img.shields.io/badge/★_View_Project-3B82F6?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Natural language → SQL with self-correction & multi-dialect support</p>
-<p align="center">
-<img src="https://img.shields.io/badge/SQLGlot-3B82F6?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Snowflake-1D4ED8?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/NL2SQL-Engine">NL2SQL Engine</a></h3>
+<p>Natural language to SQL with live schema introspection, self-correction, few-shot learning, and multi-dialect support (Postgres, Snowflake, SQLite).</p>
+<p><code>SQLGlot</code> <code>PostgreSQL</code> <code>Snowflake</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/SLM-From-Scratch">🧠 SLM From Scratch</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/SLM-From-Scratch">
-<img src="https://img.shields.io/badge/★_View_Project-EC4899?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Build language models from zero: tokenizer, transformer, training, alignment</p>
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/DeepSpeed-DB2777?style=flat-square"/>
-<img src="https://img.shields.io/badge/RLHF-BE185D?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">LLM Fine-tuning Toolkit</a></h3>
+<p>Production LoRA / QLoRA fine-tuning: pluggable backends (Unsloth, TRL, Axolotl), YAML recipes, MLflow tracking, vLLM serving.</p>
+<p><code>Unsloth</code> <code>vLLM</code> <code>MLflow</code></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">⚡ LLM Finetuning</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/LLM-Finetuning-Toolkit">
-<img src="https://img.shields.io/badge/★_View_Project-14B8A6?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Production LoRA/QLoRA fine-tuning: YAML recipes, MLflow, vLLM serving</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Unsloth-14B8A6?style=flat-square"/>
-<img src="https://img.shields.io/badge/vLLM-0D9488?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLflow-0F766E?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/Multi-LoRA-Serve">Multi-LoRA Serve</a></h3>
+<p>One base model, many LoRA adapters per request: OpenAI-compatible inference gateway with tenant routing and Prometheus metrics.</p>
+<p><code>vLLM</code> <code>LoRA</code> <code>Prometheus</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/Multi-LoRA-Serve">🚀 Multi-LoRA Serve</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/Multi-LoRA-Serve">
-<img src="https://img.shields.io/badge/★_View_Project-6366F1?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">One base model, many adapters per request, OpenAI-compatible inference gateway</p>
-<p align="center">
-<img src="https://img.shields.io/badge/vLLM-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRA-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prometheus-4338CA?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/KG_RAG">KG-RAG</a></h3>
+<p>Knowledge graph + RAG with Neo4j for intelligent document QA: entity extraction, graph traversal retrieval, and hybrid grounding.</p>
+<p><code>Neo4j</code> <code>FastAPI</code> <code>React</code></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/LoRA-Factory">🏭 LoRA Factory</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/LoRA-Factory">
-<img src="https://img.shields.io/badge/★_View_Project-475569?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Adapter lifecycle: train, evaluate, merge (TIES/DARE), version & publish</p>
-<p align="center">
-<img src="https://img.shields.io/badge/MergeKit-475569?style=flat-square"/>
-<img src="https://img.shields.io/badge/MinIO-334155?style=flat-square"/>
-<img src="https://img.shields.io/badge/HuggingFace-F59E0B?style=flat-square"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/Domain-Adaptive-LLM">🏥 Domain-Adaptive LLM</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/Domain-Adaptive-LLM">
-<img src="https://img.shields.io/badge/★_View_Project-F43F5E?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">Specialize LLMs for medical, legal, finance & code: domain benchmarks, curriculum training, safety guardrails</p>
-<p align="center">
-<img src="https://img.shields.io/badge/MedQA-F43F5E?style=flat-square"/>
-<img src="https://img.shields.io/badge/LegalBench-E11D48?style=flat-square"/>
-<img src="https://img.shields.io/badge/FinBench-BE123C?style=flat-square"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">
-<a href="https://github.com/anmolg1997/Insurance-Fraud-Detection">🛡️ Insurance Fraud Detection</a>
-</h3>
-<p align="center">
-<a href="https://github.com/anmolg1997/Insurance-Fraud-Detection">
-<img src="https://img.shields.io/badge/★_View_Project-DC2626?style=for-the-badge"/>
-</a>
-</p>
-<p align="center">ML-powered insurance fraud detection: 10 expert rules, PyCaret AutoML, explainable decisions</p>
-<p align="center">
-<img src="https://img.shields.io/badge/PyCaret-DC2626?style=flat-square"/>
-<img src="https://img.shields.io/badge/FastAPI-B91C1C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rules_Engine-991B1B?style=flat-square"/>
-</p>
+<h3><a href="https://github.com/anmolg1997/Domain-Adaptive-LLM">Domain-Adaptive LLM</a></h3>
+<p>Specialize LLMs for medical, legal, finance and code: curriculum training, domain benchmarks (MedQA, LegalBench), safety guardrails.</p>
+<p><code>MedQA</code> <code>LegalBench</code> <code>LoRA</code></p>
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
----
+## Tech stack
 
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"/> &nbsp;Tech Stack
-
-<div align="center">
-
-<!-- Core Skills with Icons -->
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=dark" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=light" alt="Languages and frameworks"/>
+  </picture>
 </p>
-<p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=dark" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=light">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=light" alt="Cloud and infrastructure"/>
+  </picture>
 </p>
-
-<br/>
-
-<!-- Specialized Tech -->
-<p>
-<img src="https://img.shields.io/badge/OpenAI-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anthropic-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_ADK-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔗_A2A_Protocol-6D28D9?style=for-the-badge"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Neo4j-A855F7?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Langfuse-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MLflow-7C3AED?style=for-the-badge&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/vLLM-6D28D9?style=for-the-badge"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/LoRA%2FQLoRA-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Unsloth-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepSpeed-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔌_MCP_Tools-6D28D9?style=for-the-badge"/>
-</p>
-
-</div>
-
-<br/>
 
 <details>
-<summary><b>📋 &nbsp;Full Tech Breakdown</b></summary>
+<summary><b>Full tech breakdown</b></summary>
 <br/>
 
 ```
-LLM Providers      OpenAI • Anthropic • Google Gemini • Llama • Mistral
-Agent Frameworks   Google ADK • A2A Protocol • MCP Tools • LangGraph • CrewAI
-RAG Stack          LlamaIndex • LangChain • Neo4j • OpenSearch • Pinecone • Weaviate
-Observability      Langfuse • MLflow • Weights & Biases • OpenTelemetry
-Inference          vLLM • Multi-LoRA Serving • TensorRT-LLM • ONNX Runtime
-Fine-tuning        LoRA • QLoRA • DoRA • Unsloth • Axolotl • DeepSpeed • RLHF/DPO
-Model Building     PyTorch Transformers • BPE Tokenizers • GGUF/ONNX Export
-Frontend           React • Vite • Next.js • TypeScript • TailwindCSS
-Backend            FastAPI • Python • Node.js • GraphQL
-Cloud              AWS (Bedrock, SageMaker) • GCP (Vertex AI) • Azure
-Infrastructure     Docker • Kubernetes • Terraform • GitHub Actions
+LLM providers      OpenAI · Anthropic · Google Gemini · Llama · Mistral
+Agent frameworks   Google ADK · A2A Protocol · MCP · LangGraph · CrewAI
+RAG stack          LlamaIndex · LangChain · Neo4j · OpenSearch · Pinecone · Weaviate
+Observability      Langfuse · MLflow · Weights & Biases · OpenTelemetry
+Inference          vLLM · Multi-LoRA serving · TensorRT-LLM · ONNX Runtime
+Fine-tuning        LoRA · QLoRA · DoRA · Unsloth · Axolotl · DeepSpeed · RLHF / DPO
+Model building     PyTorch Transformers · BPE tokenizers · GGUF / ONNX export
+Frontend           React · Vite · Next.js · TypeScript · TailwindCSS
+Backend            FastAPI · Python · Node.js · GraphQL
+Cloud              AWS (Bedrock, SageMaker) · GCP (Vertex AI) · Azure
+Infrastructure     Docker · Kubernetes · Terraform · GitHub Actions
 ```
 
 </details>
 
 <br/>
 
----
-
-<br/>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> &nbsp;Activity
-
-<div align="center">
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anmolg1997&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&theme=github_dark&title_color=A78BFA&icon_color=A78BFA">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED">
+    <img src="https://github-readme-stats.vercel.app/api?username=anmolg1997&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED" width="49%" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anmolg1997&hide_border=true&theme=dark&background=00000000&ring=A78BFA&fire=A78BFA">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=anmolg1997&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED">
+    <img src="https://streak-stats.demolab.com?user=anmolg1997&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED" width="49%" alt="GitHub streak"/>
+  </picture>
+</p>
 
 <br/>
 
 ---
 
-<br/>
-
-<div align="center">
-
-<!-- CTA Section -->
-<img src="https://img.shields.io/badge/💼_Open_to_Collaborations-A855F7?style=for-the-badge"/>
-
-<br/><br/>
-
-### Building something complex? Let's talk.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/anmol-8756772501/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:the.anmol.jaiswal@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/><br/>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,9,15&height=100&section=footer"/>
+<p align="center">
+  <b>Building something complex? Let's talk.</b>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/anmol-8756772501/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:the.anmol.jaiswal@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
