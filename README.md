@@ -1,8 +1,12 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Anmol Jaiswal — Applied AI Engineer" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=fff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <img width="100%" alt="Anmol Jaiswal — Applied AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&customColorList=2,2,5,9,15&text=Anmol%20Jaiswal&fontSize=55&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
 </picture>
+
+<p align="center">
+  <a href="https://github.com/anmolg1997"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;7%2B+Years+in+Production+AI" alt="Multi-Agent AI Architect · Enterprise RAG Specialist · LLM Fine-Tuning &amp; Serving" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmol-8756772501/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -39,6 +43,14 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 | **LLM fine-tuning & serving** | `LoRA / QLoRA` `Unsloth` `vLLM` `Multi-Adapter Inference` |
 | **LLM observability** | `Langfuse` `MLflow` `OpenSearch` `Domain Evaluation` |
 | **Model building** | `Transformers from scratch` `DeepSpeed` `SFT / DPO / RLHF` |
+
+### Now building
+
+| Project | What it is |
+|:--------|:-----------|
+| [rhytm](https://github.com/anmolg1997/rhytm) | Multi-agent framework for proprietary data analysis with business intelligence |
+| [fincept-operator-skill](https://github.com/anmolg1997/fincept-operator-skill) | Claude Code agent skill that operates and monitors a trading terminal, with hard safety rails (paper-only, human-approved live actions) |
+| [SLM-From-Scratch](https://github.com/anmolg1997/SLM-From-Scratch) | Ongoing: alignment utilities and GGUF / ONNX export paths for small language models |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -167,17 +179,66 @@ I build **production AI systems** that reason, plan, and execute autonomously �
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,vite,ts,nextjs,tailwind&theme=light" alt="Languages and frameworks"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=light">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=light" alt=""/>
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,fastapi,flask,graphql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,fastapi,flask,graphql&theme=light">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,fastapi,flask,graphql&theme=light" alt=""/>
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,bash&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,bash&theme=light">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,bash&theme=light" alt=""/>
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,grafana,prometheus&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,grafana,prometheus&theme=light">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,grafana,prometheus&theme=light" alt=""/>
   </picture>
 </p>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=light">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,postgres,mongodb,redis,graphql&theme=light" alt="Cloud and infrastructure"/>
-  </picture>
+  <img src="https://img.shields.io/badge/OpenAI-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta_Llama-6D28D9?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral-A855F7?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_ADK-8B5CF6?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A2A_Protocol-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-6D28D9?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-A855F7?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-8B5CF6?style=for-the-badge&logo=opensearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Weaviate-6D28D9?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/vLLM-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DeepSpeed-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TensorRT--LLM-A855F7?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-8B5CF6?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Langfuse-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-A855F7?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-8B5CF6?style=for-the-badge&logo=weightsandbiases&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-7C3AED?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 </p>
 
 <details>
@@ -200,19 +261,7 @@ Infrastructure     Docker · Kubernetes · Terraform · GitHub Actions
 
 </details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
-</picture>
-
 ## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&color=a78bfa&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&color=24292f&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&color=24292f&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed" width="100%"/>
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake-dark.svg">
@@ -230,6 +279,14 @@ Infrastructure     Docker · Kubernetes · Terraform · GitHub Actions
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anmolg1997&hide_border=true&theme=dark&background=00000000&ring=A78BFA&fire=A78BFA">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=anmolg1997&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED">
     <img src="https://streak-stats.demolab.com?user=anmolg1997&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED" width="49%" alt="GitHub streak"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolg1997&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark&title_color=A78BFA">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolg1997&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolg1997&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED" width="49%" alt="Top languages"/>
   </picture>
 </p>
 
