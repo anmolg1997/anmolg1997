@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/anmolg1997"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;Agent+Skills+%26+Harness+Engineering;7%2B+Years+in+Production+AI" alt="Multi-Agent AI Architect · Enterprise RAG Specialist · LLM Fine-Tuning &amp; Serving" /></a>
+  <a href="https://github.com/anmolg1997"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=450&lines=Multi-Agent+AI+Architect;Enterprise+RAG+Specialist;LLM+Fine-Tuning+%26+Serving;Knowledge+Graph+Engineer;Agent+Skills+%26+Harness+Engineering;7%2B+Years+in+Production+AI" alt="Multi-Agent AI Architect · Enterprise RAG Specialist · LLM Fine-Tuning &amp; Serving" /></a>
 </p>
 
 <p align="center">
@@ -27,12 +27,10 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg">
+  <img alt="About" src="assets/h-about-light.svg" width="100%">
 </picture>
-
-## About
 
 I build **production AI systems** that reason, plan, and execute autonomously: multi-agent orchestration, agent skills and harnesses for coding agents, enterprise RAG pipelines, LoRA fine-tuning at scale, and multi-adapter inference serving.
 
@@ -84,12 +82,10 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
 | 2025–now | Agentic AI: orchestration, skills, harnesses | [Multi-Agent-Framework](https://github.com/anmolg1997/Multi-Agent-AI-Framework) · [adk-database-memory](https://github.com/anmolg1997/adk-database-memory) · [prepostmortem-skills](https://github.com/anmolg1997/prepostmortem-skills) |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-open-source-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-open-source-light.svg">
+  <img alt="Open source" src="assets/h-open-source-light.svg" width="100%">
 </picture>
-
-## Open source
 
 <table>
 <tr>
@@ -191,12 +187,10 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-featured-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-featured-work-light.svg">
+  <img alt="Featured work" src="assets/h-featured-work-light.svg" width="100%">
 </picture>
-
-## Featured work
 
 <table>
 <tr>
@@ -274,12 +268,10 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-tech-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-tech-stack-light.svg">
+  <img alt="Tech stack" src="assets/h-tech-stack-light.svg" width="100%">
 </picture>
-
-## Tech stack
 
 <p align="center">
   <picture>
@@ -379,7 +371,11 @@ Infrastructure     Docker · Kubernetes · Terraform · GitHub Actions
 
 </details>
 
-## Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-activity-light.svg">
+  <img alt="Activity" src="assets/h-activity-light.svg" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&area=true&radius=8&custom_title=Contribution%20flow&color=a78bfa&title_color=a78bfa&line=7c3aed&point=14b8a6&area_color=7c3aed">
