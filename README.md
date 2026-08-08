@@ -179,27 +179,27 @@ I build **production AI systems** that reason, plan, and execute autonomously â€
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=light" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Canaconda&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Canaconda&theme=light">
+    <img src="https://skillicons.dev/icons?i=python%2Cpytorch%2Ctensorflow%2Csklearn%2Copencv%2Canaconda&theme=light" alt=""/>
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,fastapi,flask,graphql&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,fastapi,flask,graphql&theme=light">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,tailwind,nodejs,fastapi,flask,graphql&theme=light" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cts%2Cjs%2Cnextjs%2Cvite%2Ctailwind%2Cnodejs%2Cfastapi%2Cflask%2Cgraphql&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cts%2Cjs%2Cnextjs%2Cvite%2Ctailwind%2Cnodejs%2Cfastapi%2Cflask%2Cgraphql&theme=light">
+    <img src="https://skillicons.dev/icons?i=react%2Cts%2Cjs%2Cnextjs%2Cvite%2Ctailwind%2Cnodejs%2Cfastapi%2Cflask%2Cgraphql&theme=light" alt=""/>
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,bash&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,bash&theme=light">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,bash&theme=light" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Ckubernetes%2Cterraform%2Cgithubactions%2Cgit%2Clinux%2Cbash&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Ckubernetes%2Cterraform%2Cgithubactions%2Cgit%2Clinux%2Cbash&theme=light">
+    <img src="https://skillicons.dev/icons?i=aws%2Cgcp%2Cazure%2Cdocker%2Ckubernetes%2Cterraform%2Cgithubactions%2Cgit%2Clinux%2Cbash&theme=light" alt=""/>
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,grafana,prometheus&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,grafana,prometheus&theme=light">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch,kafka,grafana,prometheus&theme=light" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Csqlite%2Celasticsearch%2Ckafka%2Cgrafana%2Cprometheus&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Csqlite%2Celasticsearch%2Ckafka%2Cgrafana%2Cprometheus&theme=light">
+    <img src="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Csqlite%2Celasticsearch%2Ckafka%2Cgrafana%2Cprometheus&theme=light" alt=""/>
   </picture>
 </p>
 
@@ -208,14 +208,14 @@ I build **production AI systems** that reason, plan, and execute autonomously â€
   <img src="https://img.shields.io/badge/Anthropic-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Gemini-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white"/>
   <img src="https://img.shields.io/badge/Meta_Llama-6D28D9?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mistral-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mistral-A855F7?style=for-the-badge&logo=mistralai&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Google_ADK-8B5CF6?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/A2A_Protocol-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCP-6D28D9?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-A855F7?style=for-the-badge&logo=langgraph&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=crewai&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge"/>
@@ -226,7 +226,7 @@ I build **production AI systems** that reason, plan, and execute autonomously â€
   <img src="https://img.shields.io/badge/Weaviate-6D28D9?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/vLLM-A855F7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/vLLM-A855F7?style=for-the-badge&logo=vllm&logoColor=white"/>
   <img src="https://img.shields.io/badge/LoRA%2FQLoRA-8B5CF6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DeepSpeed-6D28D9?style=for-the-badge"/>
@@ -264,9 +264,9 @@ Infrastructure     Docker Â· Kubernetes Â· Terraform Â· GitHub Actions
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/anmolg1997/anmolg1997/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&area=true&radius=8&custom_title=Contribution%20flow&color=a78bfa&title_color=a78bfa&line=7c3aed&point=14b8a6&area_color=7c3aed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&area=true&radius=8&custom_title=Contribution%20flow&color=24292f&title_color=7c3aed&line=7c3aed&point=0d9488&area_color=7c3aed">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolg1997&bg_color=00000000&hide_border=true&area=true&radius=8&custom_title=Contribution%20flow&color=24292f&title_color=7c3aed&line=7c3aed&point=0d9488&area_color=7c3aed" width="100%"/>
 </picture>
 
 <p align="center">
