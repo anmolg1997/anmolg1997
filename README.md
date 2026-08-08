@@ -45,12 +45,16 @@ I build **production AI systems** that reason, plan, and execute autonomously: m
 | **LLM observability** | `Langfuse` `MLflow` `OpenSearch` `Domain Evaluation` |
 | **Model building** | `Transformers from scratch` `DeepSpeed` `SFT / DPO / RLHF` |
 
+### In industry
+
+- Building an enterprise decision-intelligence platform: multi-agent orchestration on Google ADK, NL2SQL over governed data, AG-UI streaming to a React frontend
+- Production hardening: durable sessions, tenant isolation, model benchmarking, incident postmortems
+
 ### Now building
 
 | Project | What it is |
 |:--------|:-----------|
 | [rhytm](https://github.com/anmolg1997/rhytm) | Multi-agent framework for proprietary data analysis with business intelligence |
-| [fincept-operator-skill](https://github.com/anmolg1997/fincept-operator-skill) | Claude Code agent skill that operates and monitors a trading terminal, with hard safety rails (paper-only, human-approved live actions) |
 | [SLM-From-Scratch](https://github.com/anmolg1997/SLM-From-Scratch) | Ongoing: alignment utilities and GGUF / ONNX export paths for small language models |
 
 ### Tracking the frontier
@@ -64,6 +68,20 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
 | **Agent protocols:** `MCP` `A2A` `AG-UI` `AGENTS.md` | <ul><li>ADK 2.0 middleware for <a href="https://github.com/ag-ui-protocol/ag-ui">ag-ui</a></li><li>A2A orchestration in <a href="https://github.com/anmolg1997/Multi-Agent-AI-Framework">Multi-Agent-AI-Framework</a></li></ul> |
 | **Context engineering:** sessions, memory and state over prompts | <ul><li><a href="https://github.com/anmolg1997/adk-database-memory">adk-database-memory</a>: durable agent memory</li><li>Firestore session service patterns adopted upstream in Google ADK</li></ul> |
 | **Agent reliability:** evals, failure taxonomies, observability | <ul><li>261-incident, 12-class failure model in <a href="https://github.com/anmolg1997/prepostmortem-skills">prepostmortem-skills</a></li><li>Retry-safe LLM-as-judge eval merged into <a href="https://github.com/pydantic/pydantic-ai/pull/5089">Pydantic AI</a></li></ul> |
+
+### AI x markets
+
+- [EquityOracle](https://github.com/anmolg1997/EquityOracle): self-improving equity recommender with multi-horizon predictions and paper trading
+- [fincept-operator-skill](https://github.com/anmolg1997/fincept-operator-skill): agent skill operating a live trading terminal, paper-only with human-approved live actions
+
+### The journey
+
+| Years | Era | Proof |
+|:------|:----|:------|
+| 2019–2021 | Data science and classical ML | [Lead-Scoring](https://github.com/anmolg1997/Lead-Scoring) · [Telecom-Churn](https://github.com/anmolg1997/Telecom-Churn-Prediction) · [Product-Recommender](https://github.com/anmolg1997/Sentiment-Based-Product-Recommendation-System) |
+| 2021–2023 | NLP and deep learning | [Deep-Learning-Projects](https://github.com/anmolg1997/Deep-Learning-Projects) · [Spark-GPU-Sentiment](https://github.com/anmolg1997/Spark-GPU-Sentiment-Analyzer) |
+| 2023–2025 | GenAI foundations: RAG, fine-tuning, model building | [Enterprise-RAG](https://github.com/anmolg1997/Enterprise-RAG-System) · [LLM-Finetuning-Toolkit](https://github.com/anmolg1997/LLM-Finetuning-Toolkit) · [SLM-From-Scratch](https://github.com/anmolg1997/SLM-From-Scratch) |
+| 2025–now | Agentic AI: orchestration, skills, harnesses | [Multi-Agent-Framework](https://github.com/anmolg1997/Multi-Agent-AI-Framework) · [adk-database-memory](https://github.com/anmolg1997/adk-database-memory) · [prepostmortem-skills](https://github.com/anmolg1997/prepostmortem-skills) |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
@@ -310,6 +328,9 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
   <img src="https://img.shields.io/badge/OpenSearch-8B5CF6?style=for-the-badge&logo=opensearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pinecone-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Weaviate-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Milvus-A855F7?style=for-the-badge&logo=milvus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-8B5CF6?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/vLLM-A855F7?style=for-the-badge&logo=vllm&logoColor=white"/>
@@ -326,6 +347,15 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
   <img src="https://img.shields.io/badge/Weights_%26_Biases-8B5CF6?style=for-the-badge&logo=weightsandbiases&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-7C3AED?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-6D28D9?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-A855F7?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-8B5CF6?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-A855F7?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-8B5CF6?style=for-the-badge"/>
+</p>
 
 <details>
 <summary><b>Full tech breakdown</b></summary>
@@ -334,14 +364,16 @@ Where agentic AI is heading in 2026, and where I'm already hands-on:
 ```
 LLM providers      OpenAI · Anthropic · Google Gemini · Llama · Mistral
 Agent frameworks   Google ADK · A2A Protocol · MCP · LangGraph · CrewAI
-RAG stack          LlamaIndex · LangChain · Neo4j · OpenSearch · Pinecone · Weaviate
+RAG stack          LlamaIndex · LangChain · Neo4j · OpenSearch
+Vector DBs         Pinecone · Weaviate · Milvus · Qdrant · ChromaDB
 Observability      Langfuse · MLflow · Weights & Biases · OpenTelemetry
 Inference          vLLM · Multi-LoRA serving · TensorRT-LLM · ONNX Runtime
 Fine-tuning        LoRA · QLoRA · DoRA · Unsloth · Axolotl · DeepSpeed · RLHF / DPO
 Model building     PyTorch Transformers · BPE tokenizers · GGUF / ONNX export
 Frontend           React · Vite · Next.js · TypeScript · TailwindCSS
 Backend            FastAPI · Python · Node.js · GraphQL
-Cloud              AWS (Bedrock, SageMaker) · GCP (Vertex AI) · Azure
+Cloud              AWS (Bedrock, SageMaker) · GCP (Vertex AI) · Azure (OpenAI, AI Search)
+Data & distributed PySpark · Spark NLP · Databricks · Streamlit · scikit-learn · XGBoost
 Infrastructure     Docker · Kubernetes · Terraform · GitHub Actions
 ```
 
